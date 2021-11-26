@@ -1,6 +1,4 @@
 # Table of contents
-* [English](en)
-* [한국어, 조선어](ko)
 * [NEURONSwap 소개](README.md)
   * [메타넌스](neuronswap/undefined.md)
   * [로니클럽](neuronswap/undefined-1.md)
