@@ -1,7 +1,6 @@
-* [English](en)
-* [한국어, 조선어](ko)
+* [English](/en)
+* [한국어, 조선어](/ko)
 <!--
-
 * [Deutsch](de)
 * [Español](es)
 * [Français](fr)
