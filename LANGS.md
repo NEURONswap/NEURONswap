@@ -17,7 +17,6 @@
 * [Magyar](hu)
 * [Bahasa Indonesia](id)
 * [日本語 (にほんご)](ja)
-* [한국어, 조선어](ko)
 * [македонски јазик](mk)
 * [Nederlands](nl)
 * [język polski](pl)
