@@ -2,8 +2,8 @@
 
 ## 2021 Q4
 
-* NEURONSwap 런치패드
-* NEURONSwap 런칭
+* NEURONswap 런치패드
+* NEURONswap 런칭
 
 ## 2022 Q1
 
