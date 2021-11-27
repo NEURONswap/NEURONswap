@@ -17,7 +17,7 @@
 * [Governance Token Staking](product/undefined.md)
 * [Rony Club](product/undefined-1.md)
 * [Swap](product/undefined-2.md)
-* [유동성 공급](product/undefined-3.md)
+* [Liquidity Providing](product/undefined-3.md)
 * [유동성 마이그레이션](product/undefined-4.md)
 * [레퍼럴](product/undefined-5.md)
 * [개발 로드맵](product/undefined-6.md)

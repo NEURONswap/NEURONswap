@@ -1,19 +1,21 @@
-# 유동성 공급
+# Liquidity Providing
 
-DEX에서 슬리피지가 없는 원활한 거래환경을 조성하기 위해서는 풍부한 유동성이 필수적입니다. 이러한 유동성을 공급하는 유저들을 유동성 공급자(LP, Liquidity Provider) 라고 부릅니다. NEURONswap에서 풀 유동성을 제공하면 이에 대한 증거로 LP(Liquidity Pool) Token이 생성되고 LP 토큰은 스테이킹(Staking)을 통해 페어에 예치됩니다. 전체 스테이킹 물량중 본인의 스테이킹 량은 페어에 대한 지분율을 나타냅니다. 풀에 예치된 자산을 출금하려면 언스테이크(Unstake)를 통해 프로토콜의 컨트랙트로 부터 자산을 반환 받습니다.
+Abundant liquidity is essential to create a slippage-free trading environment in DEX. Users who provide such liquidity are called Liquidity Providers (LPs). When NEURONswap provides liquidity to the pool, a Liquidity Pool(LP) token is created as proof of this, and the LP token is deposited in the pair through staking. The amount a user stakes divided by total staking amount indicates your stake in the pair. To withdraw assets deposited in the pool, the assets are returned from the protocol’s contract through Unstake.
 
-유저는 자산 예치 기간동안 스테이킹을 통해 풀에서 유동성 공급에 대한 보상으로 NR 토큰과 수수료를 보상으로 제공 받습니다. 거래 수수료는 풀에 적립되며, 출금 시 교환 비율에 따라 수수료까지 포함하여 출금됩니다.
+Liquidity providers are rewarded with NR tokens and fees as a reward for providing liquidity to the pool through staking for the staking period. Transaction fees are credited to the pool, and when it is withdrawn, fees are included according to the exchange rate.
 
-NEURONswap의 유동성 풀은 프로토콜 참여자 누구나 자유롭게 생성할 수 있고, 뉴런토큰 분배량에 따라 NR\*2, NR\*1, NR\*0 로 구분됩니다. 해당 유동성 풀이 제공하는 토큰의 중요도와 프로토콜에 기여하는 바에 따라서 구분되며, NR\*2 경우는 다른 페어들에 비해 많은 NR토큰을 분배 받을 수 있습니다. NR\*0의 경우는 신생 프로젝트거나 프로토콜에 대한 기여도가 상대적으로 작은 페어로 NR 토큰이 분배 되지 않습니다. 토큰 에어드랍을 진행 중인 풀에 유동성을 공급하는 경우, 스테이킹 지분율에 따라 에어드랍 토큰을 분배 받습니다.
+The liquidity pool of NEURONswap can be freely created by any protocol participant, and is divided into NR_2, NR_1, NR_0, depending on the amount of neuron token distribution. It is classified according to the importance of the tokens provided by the liquidity pool and their contribution to the protocol. Users can receive a larger distribution of NR tokens for NR_2 than other pairs. NR tokens are not distributed for NR\*0 which is new projects or pairs that contribute relatively little to the protocol.
 
-### **비영구적 손실 (IL:Impermanent Loss)**
+If liquidity is supplied to a pool that is undergoing a token airdrop, airdrop tokens are distributed according to the share.
 
-비영구적 손실은 예치한 A,B 토큰의 가격이 변화할 때 발생합니다. 일반적으로 A,B 토큰의 가격 차이가 커지면 비례적으로 비영구적 손실의 규모도 커지게 됩니다. 유동성 공급자의 경우, 풀의 수수료와 토큰 보상으로 획득한 수익보다 토큰 가격 변동에 따른 토큰 수량 손실이 더 큰 경우도 발생합니다. 하나의 토큰 자산가격이 1.25배 상승하면 LP는 원래 수량의 0.6%를 잃게 되고, 5배 증가하면 기존 수량의 25%를 잃게 됩니다.
+### **Impermanent Loss(IL)**
 
-* 1.25배 가격 변화 = 0.6% 손실
-* 1.5배 가격 변화 = 2.0% 손실
-* 1.75배 가격 변화 = 3.8% 손실
-* 2배 가격 변화 = 5.7% 손실
-* 3배 가격 변화 = 13.4% 손실
-* 4배 가격 변화 = 20.0% 손실
-* 5배 가격 변화 = 25.5% 손실
+Impermanent loss occurs when the price of the two deposited tokens changes. In general, as the price difference between the two tokens increases, the size of the non-permanent loss increases proportionally. In the case of liquidity providers, there are cases in which the loss of token quantity due to token price fluctuations is greater than the profits obtained from pool fees and token rewards. If the price of one token increases by 1.25 times, the LP will lose 0.6% of the original quantity, and if it increases by 5 times, the LP will lose 25% of the original quantity.
+
+* 1.25x price change = 0.6% loss
+* 1.5x price change = 2.0% loss
+* 1.75x price change = 3.8% loss
+* 2x price change = 5.7% loss
+* 3x price change = 13.4% loss
+* 4x price change = 20.0% loss
+* 5x price change = 25.5% loss
