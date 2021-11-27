@@ -14,7 +14,7 @@
 * **Initial Starting Supply : 2,390,288 NR**
 * **Daily NR Mining Volume : 885,000 NR**
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (34).png>)
 
 * The total issuance period of NR tokens is 2 years.
 * After the issuance of a total of 500 million tokens for 2 years is completed, the number of additional issuance, period, and distribution are decided by governance voting.
@@ -32,7 +32,7 @@
 
 ***
 
-![](https://lh3.googleusercontent.com/vGpH0jqYOSyHDJsY2DlQC2DVAbbCKtcM5g9QHOKlebRVXBNn1i7eHRiXbh3tS2Tf7yeIYGA21gp9NXyb4AlntzoLC3CDPeBY3Pex6azjyAf9gRjsCgsoDWzX4xMZnCTAuDBDdP1f)
+![](<../.gitbook/assets/image (32).png>)
 
 ### **Liquidity Provider**
 

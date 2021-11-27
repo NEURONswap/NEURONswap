@@ -22,7 +22,7 @@ Passed agendas are cast, queued in Timelock, and can be implemented in 2 days. O
 
 ### **Governance Rule and Economy**
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 
 * **Autonomous Proposal**
 
