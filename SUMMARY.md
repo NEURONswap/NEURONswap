@@ -22,8 +22,6 @@
 * [Referral](product/undefined-5.md)
 * [Roadmap](product/undefined-6.md)
 
-## 토크노믹스
-
 ## Tokenomics
 
 * [Tokenomics](tokenomics/tokenomics.md)
