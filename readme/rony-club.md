@@ -1,6 +1,9 @@
-# 로니클럽 (Rony Club)
+---
+description: Rony Club is a club with governance members.
+---
 
-로니클럽(Rony Club)은 뉴런스왑의 중장기적인 비전을 공유하는 거버넌스 멤버들이 모인 클럽 이름입니다. 유저들은 거버넌스 토큰을 스테이킹 함으로써 프로토콜 거버넌스 파워를 나타내는 gNR을 부여받고 로니클럽의 멤버가 될 수 있습니다. 로니클럽 멤버들은 뉴런 프로토콜의 주인으로서 뉴런 프로토콜의 중요 의사 결정에 참여하고 프로토콜의 성장에 따라 수익을 공유 받습니다.
+# Rony Club
 
-\
-로니클럽 멤버들은 고유의 멤버십 NFT 카드를 발급받고 거버넌스 파워에 따라 5개의 칭호로 나뉘며 칭호에 따른 NFT 휘장를 부여받아 메타버스 세계에서 활동합니다. 로니클럽 멤버들은 메타넌스 세계의 광장(Square)에서 소통하고, 의회(Council)에서 프로토콜의 기술(Technology)과 거버넌스 규칙(Governing Rule)에 대한 영향력을 행사 할 수 있습니다 또한, 재무위원회(The Finance Committee)에서 이코노미(Economy) 안건에 대한 영향력을 행사할 수 있습니다.
+Rony Club is a club with governance members who share the mid- to long- term vision of NEURONswap. By staking NR tokens, anyone can become a member(Rony) and acquire gNR tokens(governance tokens). As the owners of the Neuron protocol, all Ronys participate in making protocol's important decisions and receive a share in revenue as the protocol grows.
+
+5 different badges: Diamond, Gold, Silver, Bronze, Stone are given to Ronys determined by their governance power and they are also given unique membership cards(NFT) and badges(NFT) accordingly. In the metaverse, Ronys will communicate with each other in the Square and exercise influence over the protocol’s technology and Governance rules in the Council. In addition, they will exercise influence on the economic agenda in the financial committee.

@@ -1,85 +1,59 @@
-# 로니클럽
+---
+description: >-
+  Rony Club is a club with governance members who share the mid to long term
+  vision of NEURONswap
+---
 
-**로니클럽은 “롤렉스의 롤리, 코카콜라의 코크” 등 브랜드를 애칭으로 나타내는 표현 방식에서 따와 로니클럽의 로니는 Neuron의 ‘ron’에서 ‘rony’로 발전된 애칭입니다.**
+# Rony Club
 
-모든 로니들은 멤버쉽(NFT) 카드를 발급받고, 프로토콜 영향력에 따라 5개 칭호으로 불리며 칭호에 따라 고유한 휘장(NFT)를 부여받아 메타버스 세계에서 활동합니다. 로니클럽 멤버들의 영향력에 따른 칭호는 시즌별로 갱신되며, 휘장과 멤버십 카드는 시즌마다 새로 발급됩니다.
+The name Ronnie Club is derived from the way of expressing the brand as a nickname, such as “Roly of Rolex" and "Coke of Coca-Cola”. Name of the club is developed from NEURON's 'Ron' to 'Rony'.
 
-또한, 로니들은 로니박스(Rony Box)를 얻을 수 있습니다. 로니박스(Rony Box)는 희소한 확률로 NFT 의류, 장신구, 아이템, 휘장을 랜덤하게 획득할 수 있는 아이템입니다. 로니박스를 통해 얻은 NFT를 메타버스 속 본인의 아바타에 착용하여 다른 멤버들에게 영향력을 뽐낼 수 있습니다. 로니박스를 통해 얻은 NFT는 마켓에서 거래를 통해 추가적인 수익을 창출 할 수도 있습니다.\
+All Ronys receive Membership card(NFT).
 
+Ronys get 5 different titles: Diamond, Gold, Silver, Bronze, Stone  determined by their governance power and they are also given unique membership cards(NFT) and badges(NFT) accordingly in the metaverse.
 
-### **1. 로니 멤버 칭호 및 혜택**
+_\*The titles are renewed each season, and badges and membership cards are newly issued each season._
 
-**다이아 멤버 (gNR 보유 상위 1.5%)**
+Rony Box can be purchased with NR tokens. It is an item where Ronys can obtain 6 types of NFT items(Head, Face, Top, Bottom, Shoes, and Accessories) at random. Items can be put on the avatar in the metaverse to show the influence and are tradable in the NFT market for additional revenue.&#x20;
 
-* Rony Club 멤버쉽 NFT 카드
-* 다이아 휘장 NFT
-* 시즌별 로니박스 128개 지급&#x20;
+### **1. Rony Member Titles and Benifits**
 
-**골드 멤버 (NR 보유 상위 10%)**
+영어표 추가&#x20;
 
-* Rony Club 멤버쉽 NFT 카드
-* 골 휘장 NFT
-* 시즌별 로니박스 128개 지급
+### **2. Rony Club NFT**
 
-**실 멤버 (NR 보유 상위 30%)**
+Rony Club members can create a membership card and participate in various activities within the club. Collect NFTs from Rony Box and the market and show your own collections.
 
-* Rony Club 멤버쉽 NFT 카드
-* 실 휘장 NFT
-* 시즌별 로니박스 4개 지급
+* **Membership Card**
 
-**브론즈 멤버 (gNR 보유 상위 70%)**
+Rony Club members can create avatars. When creating an avatar, you can select a skin color and background color.
 
-* Rony Club 멤버쉽 NFT 카드
-* 브론즈 휘장 NFT
-* 시즌별  로니박스 1개 지급
+* **Rony Box**
 
-**스톤 멤버 (최소 보유 gNR 100,000)**
+Rony Box can be purchased with NR tokens, and is an item where Ronys can obtain 6 types of NFT items(Head, Face, Top, Bottom, Shoes, and Accessories) at random. All NR tokens used for purchase will be burned.
 
-* Rony Club 멤버쉽 NFT 카드
-* 스톤 휘장 NFT
+* **Fantastic Frank**
 
+The first collection to be showcased at NEURONswap consists of outfits with various concepts created by Frank (the designer of the NEURONswap team). The collection(NFTs) for each part can be obtained from the Rony Box, and when the collection look(set items) is completed, NR tokens will be rewarded.
 
+* **Rony House Party**
 
-### **2. 로니 클럽 NFT**
+Make your own avatar look with the various NFTs(regardless of NFT rarity) obtained through Rony Box and Join the Rony ClubHouse Party. Top 3 Ronys who are voted as the best-dressers by other members will be rewarded NR tokens. Also, the top 3 avatars will be added to the collection with the name given by the designer. ClubHouse Party will be held each season..
 
-로니클럽 멤버는 멤버십 카드를 생성하고 클럽 내 다양한 활동에 참여할 수 있습니다. 로니박스와 마켓플레이스를 통해 NFT를 수집하고 자신만의 컬렉션을 뽐내보세요.
+![](<../.gitbook/assets/image (22) (1).png>)
 
-* **멤버십 카드**
+* **NFT Market Place**
 
-로니클럽에 참여한 멤버는 아바타를 생성할 수 있습니다. 아바타 생성 시 피부색과 배경색을 선택할 수 있습니다.
+The NFT market is one of the core functions of Rony Club, where you can freely trade NFT items obtained from Rony Box.
 
-* **로니박스**
+* **Rony Council**
 
-로니박스는 클럽 멤버들을 위한 또하나의 베네핏 요소로 NR토큰으로 구매 할 수 있습니다. Head, Face, Top, Bottom, Shoes, Acc 6가지 부위별 NFT 아이템을 랜덤한 확률로 획득할 수 있으며, 로니박스 구매에 사용되는 모든 NR 토큰은 전량 소각됩니다.
+In the metaverse, Ronys can propose autonomously and make an agenda on protocol technology, governance rules, etc. They can vote on the proposed agenda according to their governance power.
 
-* **판타스틱 프랭크**
+* **Rony Finance Committee**
 
-뉴런스왑에서 선보일 최초의 컬렉션은 프랭크(뉴런스왑팀의 디자이너)가 제작한 다양한 컨셉의 복장으로 구성 됩니다. 각 부위별 NFT 조합을 통해 컬렉션 룩을 완성하면 NR 토큰을 보상으로 지급 받습니다.
+At the finance committee in the metaverse, Ronys can propose autonomously and make an agenda on Economy. Protocol economics include rewards for traders, governance token staking rewards, pair boosting, marketing expense process, bug bounties, and more. On the proposed agenda, Ronnies can vote according to their governance power.
 
-* **로니 하우스파티**
+* **Rony Square**
 
-로니박스를 통해 얻게된 다양한 NFT를 조합해 나만의 아바타 룩을 완성해보세요. NFT 희귀도에 관계없이 다양한 조합으로 자신만의 아바타를 꾸미고 로니 하우스 파티에 참여하세요. 로니 멤버들의 투표를 통해 베스트 드레서에 선정된 TOP 3 로니에게는 NR토큰이 보상으로 지급됩니다. TOP 3에 선정된 아바타는 디자이너가 지어준 복장명으로 컬렉션에 추가 되며, 하우스 파티는 시즌별로 개최됩니다.
-
-| 복장  | 세트 구성                                    | 희소성                                                                             |
-| --- | ---------------------------------------- | ------------------------------------------------------------------------------- |
-| 우주복 | Head / Face / Top / Bottom / Shoes / Acc | <p>신화: ~0.5% </p><p>전설: ~2% </p><p>에픽: ~10% </p><p>레어: ~40% </p><p>일반: ~99%</p> |
-| 마술사 | Head / Face / Top / Bottom / Shoes / Acc | <p>신화: ~0.5% </p><p>전설: ~2% </p><p>에픽: ~10% </p><p>레어: ~40% </p><p>일반: ~99%</p> |
-| 산타복 | Head / Face / Top / Bottom / Shoes / Acc | <p>신화: ~0.5% </p><p>전설: ~2% </p><p>에픽: ~10% </p><p>레어: ~40% </p><p>일반: ~99%</p> |
-| 과학자 | Head / Face / Top / Bottom / Shoes / Acc | <p>신화: ~0.5% </p><p>전설: ~2% </p><p>에픽: ~10% </p><p>레어: ~40% </p><p>일반: ~99%</p> |
-| 노동자 | Head / Face / Top / Bottom / Shoes / Acc | <p>신화: ~0.5% </p><p>전설: ~2% </p><p>에픽: ~10% </p><p>레어: ~40% </p><p>일반: ~99%</p> |
-
-* **NFT 마켓플레이스**
-
-NFT마켓은 로니클럽의 핵심 기능중 하나로 로니박스를 통해 얻은 NFT 아이템을 자유롭게 거래할 수 있습니다.
-
-* **로니 의회**
-
-로니들은 메타버스 세계에 있는 의회에서  프로토콜의 기술(Technology), 거버넌스 규칙(Governing Rule) 등에 대해 자율제안 및 안건을 상정할 수 있습니다. 제안된 안건에 대해 로니들은 거버넌스 파워에 따라 투표를 진행할 수 있습니다.
-
-* **로니 재무 위원회**
-
-로니들은 메타버스 세계에 있는 재무위원회에서  프로토콜의 이코노미(Economy)에 대해 자율제안 및 안건을 상정할 수 있습니다. 프로토콜 이코노미 사항은 거래자에 대한 리워드 보상, 거버넌스 토큰 스테이킹 리워드, 페어 부스팅, 마케팅 비용처리, 버그바운티 등등 이 있습니다. 제안된 안건에 대해 로니들은 거버넌스 파워에 따라 투표를 진행할 수 있습니다.
-
-* **로니 광장**
-
-로니광장은 로니들이 자신의 아바타를 통해 개성을 표현할 수 있고 표정, 움직임, 음성, 텍스트 등으로  자유롭게 클럽 멤버들과 자유롭게 소통하는 공간입니다. 또한 프로토콜의 중요 공지사항들이 게시판에 게재되고, 유저들이 원하는 게시글을 자유롭게 게시할 수도 있는 공간입니다.
+Rony Square is a space where Ronys can express their identities through their avatars and freely communicate with club members using facial expressions, movements, voices, and texts. In addition, it is a space where important notices of the protocol are posted on the bulletin board, and Ronys can post anything they want on the bulletin board.
