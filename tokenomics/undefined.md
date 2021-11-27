@@ -1,6 +1,6 @@
 # 선형 분배 정책
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (41).png>)
 
 |   |   |   |
 | - | - | - |
