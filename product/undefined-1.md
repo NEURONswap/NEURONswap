@@ -40,7 +40,7 @@ The first collection to be showcased at NEURONswap consists of outfits with vari
 
 Make your own avatar look with the various NFTs(regardless of NFT rarity) obtained through Rony Box and Join the Rony ClubHouse Party. Top 3 Ronys who are voted as the best-dressers by other members will be rewarded NR tokens. Also, the top 3 avatars will be added to the collection with the name given by the designer. ClubHouse Party will be held each season..
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 * **NFT Market Place**
 

@@ -6,7 +6,7 @@ The governance members propose an agenda on protocol’s technology, governance 
 
 ### **Technology**
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 * **Code Suggestion**
 
