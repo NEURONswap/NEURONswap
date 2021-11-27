@@ -1,20 +1,20 @@
-# 개발 로드맵
+# Roadmap
 
 ## 2021 Q4
 
-* NEURONswap 런치패드
-* NEURONswap 런칭
+* NEURONswap Launchpad
+* NEURONswap Launching
 
 ## 2022 Q1
 
-* 거버넌스 토큰 스테이킹 기능 오픈
-* 로니클럽 베타 오픈
+* Governance Token Staking Open
+* Rony Club(Beta) Open
 
 ## 2022 Q2 \~ 2023 Q3
 
-* 1분기 전 공개
+* Scheduled to be released before Q1&#x20;
 
 ## 2023 Q4
 
-* 인터스왑 오픈
-* 거버넌스 토큰 추가발행 투표
+* Interswap Open
+* Vote for additional issuance of governance tokens

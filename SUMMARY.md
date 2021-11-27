@@ -20,7 +20,7 @@
 * [Liquidity Providing](product/undefined-3.md)
 * [Liquidity Migration](product/undefined-4.md)
 * [Referral](product/undefined-5.md)
-* [개발 로드맵](product/undefined-6.md)
+* [Roadmap](product/undefined-6.md)
 
 ## 토크노믹스
 
