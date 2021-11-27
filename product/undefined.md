@@ -21,22 +21,28 @@ _\*All penalties for unstake will be burned and excluded from circulation_
 
 ## Function of gNR
 
-**1. Voting**
+* **Voting**
 
 gNR holders gain the right to vote on issues related to the overall governance of the Neuron Protocol using the governance power, gNR. Members with greater governance power have stronger decision-making authority and can exert greater influence on the direction and growth of the Neuron protocol.
 
-**2. Mining**
+
+
+* **Mining**
 
 Governance members receive 33% of the daily mining volume of NR tokens according to their governance power.The individual token distribution formula is as follows:
 
 Individual Token Distribution = NR tokens mined per day \* (33%) \* (owned governance power/total governance power)
 
-**3. Protocol Revenue Sharing**
+
+
+* **Protocol Revenue Sharing**
 
 Governance members will receive 30% of the protocol transaction fee revenue distributed according to their governance power. The individual fee revenue distribution formula is as follows:
 
 Individual Fee Revenue = Daily Transaction Fees \* 30% \* (Governance Power Owned/Total Governance Power)
 
-**4. Collateral**
+
+
+* **Collateral**
 
 Governance power is a valuable asset and can be used as an asset that can borrow NR tokens, USDT, etc. The collateral ratio is applied at 30% LTC, and all deposits and loan fees are used to burn NR tokens.
