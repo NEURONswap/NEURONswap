@@ -16,4 +16,4 @@ NEURONswap에서 거래할 때 0.3%의 거래 수수료가 발생합니다.
 
 0.03%를 유동성 공급자들에게 분배되고 나머지 0.27%는 바이백에 사용됩니다.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (41).png>)
