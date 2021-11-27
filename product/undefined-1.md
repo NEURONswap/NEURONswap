@@ -8,19 +8,19 @@ description: >-
 
 The name Ronnie Club is derived from the way of expressing the brand as a nickname, such as “Roly of Rolex" and "Coke of Coca-Cola”. Name of the club is developed from NEURON's 'Ron' to 'Rony'.
 
-모든 로니는 멤버십 카드(NFT)를 발급 받습니다.
+All Ronys receive Membership card(NFT).
 
-로니는 프로토콜에 기여한 영향력에 따라 5개 칭호: 다이아, 골드, 실버, 브론즈, 스톤으로 불리며, 칭호에 따라 부여되는 고유한 휘장(NFT)과 함께 메타버스 세계에서 활동합니다.
+Ronys get 5 different titles: Diamond, Gold, Silver, Bronze, Stone  determined by their governance power and they are also given unique membership cards(NFT) and badges(NFT) accordingly in the metaverse.
 
-_\*로니클럽 멤버들의 칭호는 시즌별로 갱신되며, 휘장과 멤버십 카드는 시즌마다 새로 발급됩니다._
+_\*The titles are renewed each season, and badges and membership cards are newly issued each season._
 
-로니들은 NR 토큰으로 로니박스(Rony Box)를 구매할 수 있습니다. 로니박스(Rony Box)는 랜덤한 확률로 희소한 NFT(의류, 장신구 등)를 획득할 수 있는 아이템입니다. 로니박스를 통해 얻은 NFT는 메타버스 속 본인의 아바타에 착용하여 다른 멤버들에게 영향력을 뽐낼 수 있고, 마켓에서 NFT 거래를 통해 추가적인 수익을 창출 할 수도 있습니다.
+Rony Box can be purchased with NR tokens. It is an item where Ronys can obtain 6 types of NFT items(Head, Face, Top, Bottom, Shoes, and Accessories) at random. Items can be put on the avatar in the metaverse to show the influence and are tradable in the NFT market for additional revenue.&#x20;
 
-### **1. 로니 멤버 칭호 및 혜택**
+### **1. Rony Member Titles and Benifits**
 
 ![](<../.gitbook/assets/image (35).png>)
 
-### **2. 로니 클럽 NFT**
+### **2. Rony NFT**
 
 **로니클럽 멤버는 멤버십 카드를 발급 받고 클럽 내 다양한 활동에 참여할 수 있습니다. 로니박스와 마켓플레이스를 통해 NFT를 수집하고 자신만의 컬렉션을 뽐내보세요.**
 
