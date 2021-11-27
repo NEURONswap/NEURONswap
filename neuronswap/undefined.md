@@ -4,7 +4,7 @@ description: Metanance refers to governance in metaverse.
 
 # Metanance
 
-Metanance is a compound word of meta(meaning virtuality) and governance which refers to "governance in virtual space(metaverse)”. In the metaverse, governance members can communicate through their avatars about organizational rules, economy, technology and make proposals, debate, vote and decide.
+**Metanance** is a compound word of meta(meaning virtuality) and governance which refers to "governance in virtual space(metaverse)”. In the metaverse, governance members can communicate through their avatars about organizational rules, economy, technology and make proposals, debate, vote and decide.
 
 Digital citizens from all over the world can acquire NR tokens through labor or capital contributions to the NEURONswap protocol and participate in the governance by staking their tokens. As the owners of the protocol they can decide how to operate and develop the protocol.
 

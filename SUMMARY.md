@@ -2,8 +2,8 @@
 
 * [NEURONswap Introduction](README.md)
   * [Metanance](neuronswap/undefined.md)
-  * [로니클럽](neuronswap/undefined-1.md)
-  * [디파이 2.0](neuronswap/2.0.md)
+  * [Rony Club](neuronswap/undefined-1.md)
+  * [DeFi 2.0](neuronswap/2.0.md)
 
 ## 거버넌스
 
