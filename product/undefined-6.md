@@ -12,7 +12,7 @@
 
 ## 2022 Q2 \~ 2023 Q3
 
-* Scheduled to be released before Q1&#x20;
+* &#x20;Will be released before Q1&#x20;
 
 ## 2023 Q4
 
