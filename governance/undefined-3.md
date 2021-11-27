@@ -40,7 +40,7 @@ Passed agendas will be reflected in the governance and go into development**.**
 
 The voting process is a process for governance members to influence the operation of the protocol that is already developed by the development team with their governance power(gNR).
 
-### **Whitelisting**
+### **WhiteListing**
 
 ![](<../.gitbook/assets/image (23).png>)
 

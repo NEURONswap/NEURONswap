@@ -14,7 +14,7 @@
 
 ## Product
 
-* [거버넌스 토큰 스테이킹](product/undefined.md)
+* [Governance Token Staking](product/undefined.md)
 * [로니클럽](product/undefined-1.md)
 * [스왑](product/undefined-2.md)
 * [유동성 공급](product/undefined-3.md)
