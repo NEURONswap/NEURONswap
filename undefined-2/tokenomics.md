@@ -17,7 +17,7 @@
 * 2년간 총 5억개의 토큰 발행이 완료된 후 거버넌스 투표에 의해 추가 발행 수량, 기간, 분배 여부를 결정합니다.
 * NR 토큰은 4개월 마다 총 5번의 디플레이션 구간이 존재합니다. 디플레이션은 급격한 디플레를 방지하기 위해 기존 발행 수량 대비 10% 씩 발행량이 감소하도록 설계되었습니다.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 ## Token Distribution
 
@@ -31,7 +31,7 @@
 
 ***
 
-![](https://lh3.googleusercontent.com/vGpH0jqYOSyHDJsY2DlQC2DVAbbCKtcM5g9QHOKlebRVXBNn1i7eHRiXbh3tS2Tf7yeIYGA21gp9NXyb4AlntzoLC3CDPeBY3Pex6azjyAf9gRjsCgsoDWzX4xMZnCTAuDBDdP1f)
+![](<../.gitbook/assets/image (17).png>)
 
 ### 유동성 공급자
 

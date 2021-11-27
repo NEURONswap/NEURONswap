@@ -6,7 +6,7 @@
 
 ### **기술**
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 * **코드 제안**
 
