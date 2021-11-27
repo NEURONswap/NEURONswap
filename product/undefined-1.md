@@ -50,10 +50,10 @@ The NFT market is one of the core functions of Rony Club, where you can freely t
 
 In the metaverse, Ronys can propose autonomously and make an agenda on protocol technology, governance rules, etc. They can vote on the proposed agenda according to their governance power.
 
-* Rony Finance Committee
+* **Rony Finance Committee**
 
-**At the finance committee in the metaverse, Ronys can propose autonomously and make an agenda on Economy. Protocol economics include rewards for traders, governance token staking rewards, pair boosting, marketing expense process, bug bounties, and more. On the proposed agenda, Ronnies can vote according to their governance power.**
+At the finance committee in the metaverse, Ronys can propose autonomously and make an agenda on Economy. Protocol economics include rewards for traders, governance token staking rewards, pair boosting, marketing expense process, bug bounties, and more. On the proposed agenda, Ronnies can vote according to their governance power.
 
-* **로니 광장**
+* **Rony Square**
 
-로니광장은 로니들이 자신의 아바타를 통해 개성을 표현할 수 있고 표정, 움직임, 음성, 텍스트 등으로 자유롭게 클럽 멤버들과 자유롭게 소통하는 공간입니다. 또한 프로토콜의 중요 공지사항들이 게시판에 게재되고, 유저들이 원하는 게시글을 자유롭게 게시할 수도 있는 공간입니다.
+Rony Square is a space where Ronys can express their identities through their avatars and freely communicate with club members using facial expressions, movements, voices, and texts. In addition, it is a space where important notices of the protocol are posted on the bulletin board, and Ronys can post anything they want on the bulletin board.
