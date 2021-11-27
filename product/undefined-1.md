@@ -1,10 +1,12 @@
 ---
-description: 로니클럽은 NEURONswap과 중장기적 비전을 함께하는 멤버들의 모임입니다.
+description: >-
+  Rony Club is a club with governance members who share the mid to long term
+  vision of NEURONswap
 ---
 
-# 로니클럽
+# Rony Club
 
-**로니클럽은 “롤렉스의 롤리, 코카콜라의 코크” 등 브랜드를 애칭으로 나타내는 표현 방식에서 따와 로니클럽의 로니는 NEURON의 ‘Ron’에서 ‘Rony’로 발전된 애칭입니다.**
+The name Ronnie Club is derived from the way of expressing the brand as a nickname, such as “Roly of Rolex" and "Coke of Coca-Cola”. Name of the club is developed from NEURON's 'Ron' to 'Rony'.
 
 모든 로니는 멤버십 카드(NFT)를 발급 받습니다.
 
