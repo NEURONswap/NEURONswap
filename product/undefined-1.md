@@ -20,9 +20,9 @@ Rony Box can be purchased with NR tokens. It is an item where Ronys can obtain 6
 
 ![](<../.gitbook/assets/image (35).png>)
 
-### **2. Rony NFT**
+### **2. Rony Club NFT**
 
-**로니클럽 멤버는 멤버십 카드를 발급 받고 클럽 내 다양한 활동에 참여할 수 있습니다. 로니박스와 마켓플레이스를 통해 NFT를 수집하고 자신만의 컬렉션을 뽐내보세요.**
+**Rony Club members can create a membership card and participate in various activities within the club. Collect NFTs from Rony Box and the market and show your own collections.**
 
 * **멤버십 카드**
 
