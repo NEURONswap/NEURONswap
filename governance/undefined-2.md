@@ -12,6 +12,7 @@ Matters related to protocol development updates are decided through governance v
   * NFT Market
   * Rony Box
 * NR Airdrop Policy
+* NR Token Buyback
 
 ### Governance Rules
 
