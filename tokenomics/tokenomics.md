@@ -26,7 +26,7 @@
 * Liquidity Providers: 53.33%
 * Transaction Fee Payback Pook: 5.40%
 * Treasury: 16.40% - Fair Boosting, Marketing, Bug Bounty, Protocol Insurance, Audit
-* Team: 19.44% _(팀 물량은 2년간 스테이킹 됩니다.)_
+* Team: 19.44% _(Team quantities are skaked for 2 years.)_
 * Advisor: 4.96%
 * Initial Supply: 0.47%
 
