@@ -1,8 +1,8 @@
 ---
 description: >-
   Welcome to NEURONswap Documentation :) This document covers everything about
-  NEURONswap including governance, product, features of NEURON protocol, token
-  economy and functions.
+  NEURONswap including governance, product, features, token economy and
+  functions of NEURON protocol.
 ---
 
 # NEURONswap Introduction
