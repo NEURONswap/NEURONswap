@@ -2,7 +2,7 @@
 
 ### **Technology**
 
-Matters related to protocol development updates are decided through governance voting..
+* Contract structure&#x20;
 
 ### **Economy**
 
