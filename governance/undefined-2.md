@@ -2,7 +2,11 @@
 
 ### **Technology**
 
+Matters related to protocol development updates are decided through governance voting.
+
 * Contract structure&#x20;
+
+
 
 ### **Economy**
 
@@ -13,6 +17,8 @@
   * Rony Box
 * NR Airdrop Policy
 * NR Token Buyback
+
+
 
 ### Governance Rules
 
