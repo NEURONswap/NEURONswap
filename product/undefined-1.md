@@ -22,7 +22,7 @@ Rony Box can be purchased with NR tokens. It is an item where Ronys can obtain 6
 
 ### **Rony Club NFT**
 
-Rony Club members are given a membership card according to their gNR holdings and participate in various activities within the club. Collect NFTs from Rony Box and the market and show your own collections.
+Rony Club members are given a membership card according to their gNR holdings and participate in various activities within the club. Members can collect NFTs from Rony Box and show their collection to other members.
 
 * **Membership Card**
 
