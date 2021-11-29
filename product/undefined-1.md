@@ -16,11 +16,11 @@ _\*The titles are renewed each season, and badges and membership cards are newly
 
 Rony Box can be purchased with NR tokens. It is an item where Ronys can obtain 6 types of NFT items(Head, Face, Top, Bottom, Shoes, and Accessories) at random. Items can be put on the avatar in the metaverse to show the influence and are tradable in the NFT market for additional revenue.&#x20;
 
-### **1. Rony Member Titles and Benifits**
+### **Rony Member Titles and Benifits**
 
 ![](<../.gitbook/assets/image (36).png>)
 
-### **2. Rony Club NFT**
+### **Rony Club NFT**
 
 Rony Club members can create a membership card and participate in various activities within the club. Collect NFTs from Rony Box and the market and show your own collections.
 
