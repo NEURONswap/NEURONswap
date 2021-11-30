@@ -5,7 +5,7 @@
 ![](../.gitbook/assets/KakaoTalk\_20211125\_112630909.png)
 
 * **Ticker : NR**
-* **Contract address** : [https://scope.klaytn.com/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654](https://scope.klaytn.com/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654?tabId=tokenTransfer)​
+* **Contract address** : ​
 * **Chain : Klaytn (Cypress)**
 
 ## Token Allocation
@@ -22,17 +22,17 @@
 
 ## Token Distribution
 
-* Community**: **75.13%
+* Community**:** 75.13%
   * Liquidity Providers: 53.33%
   * Transaction Fee Payback Pook: 5.40%
-  * Treasury: 16.40% - Fair Boosting, Marketing, Bug Bounty, Protocol Insurance, Audit
+  * Treasury: 16.40% _(Fair Boosting, Marketing, Bug Bounty, Protocol Insurance, Audit)_
 * Team: 19.44% _(Team quantities are skaked for 2 years.)_
 * Advisor: 4.96%
 * Initial Supply: 0.47%
 
-***
+![](<../.gitbook/assets/image (24).png>)
 
-![](<../.gitbook/assets/image (32).png>)
+***
 
 ### **Liquidity Provider**
 
