@@ -16,4 +16,4 @@ There is a 0.3% transaction fee when trading on NEURONswap.&#x20;
 
 0.03% will be distributed to liquidity providers and the remaining 0.27% will be used for buybacks.
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (42).png>)
