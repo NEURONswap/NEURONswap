@@ -5,7 +5,7 @@
 ![](../.gitbook/assets/KakaoTalk\_20211125\_112630909.png)
 
 * **Ticker : NR**
-* **Contract address** : [https://scope.klaytn.com/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654](https://scope.klaytn.com/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654?tabId=tokenTransfer)​
+* **Contract address** : ​
 * **Chain : Klaytn (Cypress)**
 
 ## Token Allocation
@@ -24,14 +24,14 @@
 * 커뮤니티 : 75.13%
   * 유동성 공급자 : 53.33%
   * 거래 수수료 페이백 풀 : 5.40%
-  * 트레져리 : 16.40% - 페어 부스팅, 마케팅, 버그바운티, 프로토콜 보험, 오딧 등
+  * 트레져리 : 16.40% _(페어 부스팅, 마케팅, 버그바운티, 프로토콜 보험, 오딧 등)_
 * 팀 : 19.44% _(팀 물량은 2년간 스테이킹 됩니다.)_
 * 어드바이저 : 4.96%
 * 초기 공급 : 0.47%
 
-***
+![](<../.gitbook/assets/image (1).png>)
 
-![](<../.gitbook/assets/image (17) (1).png>)
+***
 
 ### **유동성 공급자**
 
