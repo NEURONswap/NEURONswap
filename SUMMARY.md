@@ -20,7 +20,7 @@
 * [유동성 공급](undefined-1/undefined-3.md)
 * [유동성 마이그레이션](undefined-1/undefined-4.md)
 * [레퍼럴](undefined-1/undefined-5.md)
-* [개발 로드맵](undefined-1/undefined-6.md)
+* [로드맵](undefined-1/undefined-6.md)
 
 ## 토크노믹스
 
