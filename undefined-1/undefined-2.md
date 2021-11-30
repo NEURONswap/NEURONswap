@@ -4,7 +4,7 @@
 
 ![](https://lh6.googleusercontent.com/1YXv1xhYRApRA7LY8aEMQ-UJc04guIYVruYr4XnKVp0KDBY\_WfiZtNJ0bxNaiLvBskNy0Ith6dv8LPx-oevL5OH7MQKN8AdUh4iAYJtZXG7YZaraEAsdbXo-IIXoHatAd5qXNWGJ)
 
-AMMs은 거래자에게 알고리에 따라 유동성을 통합·제공하는 에이젼트입니다. NEURONSwap은 무허가형 블록체인에서 스마트컨트랙트로 AMMs의 범주에 속하는 CPMMs(Constant Product Market Makers)을 이용하여 구현되었습니다. CPMM 기반의 DEX 거래 방식은 x\*y = k 함수로 정의되며 위 함수는 거래가 발생 때의 함수를 나타낸 것입니다. 여기서 R은 리저브(유동성)를 의미하며 R\_a와 R\_b는 유동성 페어의 토큰들입니다. γ는 트랜잭션 수수료이며 상수인 k를 유지하기 위해 각 풀 리저브 내에서 토큰 수량의 변화가 더해지고 감소합니다. 두 토큰 리저브 수량의 곱이 항상 일정한 k를 유지 해야하기 때문에, x 토큰의 공급량이 늘어나면 y 토큰의 공급은 줄어들 수밖에 없고 반대의 경우도 마찬가지입니다.
+AMMs은 거래자에게 알고리즘에 따라 유동성을 통합·제공하는 에이젼트입니다. NEURONswap은 무허가형 블록체인에서 스마트컨트랙트로 AMMs의 범주에 속하는 CPMMs(Constant Product Market Makers)을 이용하여 구현되었습니다. CPMM 기반의 DEX 거래 방식은 x\*y = k 함수로 정의되며 위 함수는 거래가 발생 때의 함수를 나타낸 것입니다. 여기서 R은 리저브(유동성)를 의미하며 R\_a와 R\_b는 유동성 페어의 토큰들입니다. γ는 트랜잭션 수수료이며 상수인 k를 유지하기 위해 각 풀 리저브 내에서 토큰 수량의 변화가 더해지고 감소합니다. 두 토큰 리저브 수량의 곱이 항상 일정한 k를 유지 해야하기 때문에, x 토큰의 공급량이 늘어나면 y 토큰의 공급은 줄어들 수밖에 없고 반대의 경우도 마찬가지입니다.
 
 ![](https://lh4.googleusercontent.com/i180YraIgrbXZkAKmwla5UXsg8Td2DzbZ2nvP2vP4pQbPJB-xwBEXTysZdN6OvqOo7w-nkhsAskrM27V3spXNDlgDYusYwyv1xS68o4pF89OcZuTu7qEgMtRnhRd0RMeS4MuchiS)
 
