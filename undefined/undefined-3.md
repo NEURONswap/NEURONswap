@@ -22,7 +22,7 @@
 
 ### **거버넌스 룰 그리고 이코노미**
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 
 * **자율 제안**
 
