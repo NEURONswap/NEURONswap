@@ -1,7 +1,7 @@
 # Table of contents
 
 * [소개](README.md)
-  * [메타넌스(거버넌스 2.0)](neuronswap/undefined.md)
+  * [메타넌스](neuronswap/undefined.md)
   * [로니클럽](neuronswap/undefined-1.md)
   * [영속 가능한 토크노믹스](neuronswap/2.0.md)
 
