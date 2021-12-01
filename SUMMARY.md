@@ -3,7 +3,7 @@
 * [NEURONswap Introduction](README.md)
   * [Metanance](readme/metanance.md)
   * [Rony Club](readme/rony-club.md)
-  * [DeFi 2.0](neuronswap/2.0.md)
+  * [Sustainable Tokenomics](neuronswap/2.0.md)
 
 ## Governance
 
