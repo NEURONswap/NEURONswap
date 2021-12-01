@@ -1,3 +1,7 @@
+---
+description: Metanance is governance 2.0 which refers to governance in metaverse.
+---
+
 # Metanance
 
 ![](<../.gitbook/assets/image (6).png>)

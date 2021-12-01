@@ -1,5 +1,5 @@
 ---
-description: Metanance refers to governance in metaverse.
+description: Metanance is governance 2.0 which refers to governance in metaverse.
 ---
 
 # Metanance
