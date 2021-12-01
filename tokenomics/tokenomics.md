@@ -26,8 +26,8 @@ _\*NR tokens have a total of 5 deflationary periods every 4 Months. Deflation is
 
 * Community**:** 75.13%
   * Liquidity Providers: 53.33%
-  * Transaction Fee Payback Pook: 5.40%
-  * Treasury: 16.40%&#x20;
+  * Transaction Fee Payback Pook: 5.33%
+  * Treasury: 16.47%&#x20;
 * Team: 19.44% _(Team quantities are skaked for 2 years.)_
 * Advisor: 4.96%
 * Initial Supply: 0.47%
