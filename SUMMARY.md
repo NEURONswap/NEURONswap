@@ -3,7 +3,7 @@
 * [소개](README.md)
   * [메타넌스](neuronswap/undefined.md)
   * [로니클럽](neuronswap/undefined-1.md)
-  * [디파이 2.0](neuronswap/2.0.md)
+  * [영속 가능한 생태계 모델](neuronswap/2.0.md)
 
 ## 거버넌스
 
