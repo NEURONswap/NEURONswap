@@ -1,3 +1,7 @@
+---
+description: 거버넌스 2.0
+---
+
 # 메타넌스
 
 ![](<../.gitbook/assets/image (6).png>)
