@@ -42,7 +42,7 @@ Liquidity providers create a trading environment in the DEX ecosystem. Liquidity
 
 ### **Trader**
 
-**Traders are allocated 10% of the daily community token distribution.**
+Traders are allocated 10% of the daily community token distribution.
 
 ### Governance Member
 
