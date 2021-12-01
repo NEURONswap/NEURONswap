@@ -48,8 +48,11 @@ Traders are allocated 10% of the daily community token distribution.
 
 Governance Token Stakers share the mid- to long-term vision of NEURONswap. After the launch of the staking service, token stakers are allocated a portion of the daily community token distribution.
 
-* Token distribution for governance token staking will be applied after the introduction of staking.
-* The token distribution portion may be adjusted according to the market environment.
+
+
+_\*Token distribution for governance token staking will be applied after the introduction of staking._
+
+_\*The token distribution portion may be adjusted according to the market environment._
 
 ## **Buyback**
 
