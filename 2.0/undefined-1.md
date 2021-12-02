@@ -1,6 +1,6 @@
 # 프로토콜 구성
 
-![Protocol Composition](<../.gitbook/assets/image (18).png>)
+![Protocol Composition](../.gitbook/assets/백서그래픽정리\_대지3.jpg)
 
 ### 거버넌스 멤버
 

@@ -29,10 +29,16 @@
 ***
 
 * [이용가이드](undefined-2/README.md)
-  * [지갑연결](undefined-2/undefined.md)
+  * [지갑연결](undefined-2/undefined/README.md)
+    * [카카오톡 Klip-PC 연결](undefined-2/undefined/klip-pc.md)
+    * [카카오톡 Klip-모바일 연결](undefined-2/undefined/klip.md)
+    * [Kaikas - PC연결](undefined-2/undefined/kaikas-pc.md)
+    * [Meta Mask - PC 연결](undefined-2/undefined/meta-mask-pc.md)
+    * [Meta Mask - 모바일 연결](undefined-2/undefined/meta-mask.md)
   * [런치패드 참여](undefined-2/undefined-1.md)
   * [스왑](undefined-2/undefined-2.md)
   * [풀](undefined-2/undefined-3.md)
+  * [Page 4](undefined-2/page-4.md)
 
 ## 유의사항
 

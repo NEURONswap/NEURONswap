@@ -6,7 +6,7 @@
 
 ### **기술**
 
-![](<../.gitbook/assets/image (17) (1) (1).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지4.jpg)
 
 * **코드 제안**
 
@@ -22,7 +22,7 @@
 
 ### **거버넌스 룰 그리고 이코노미**
 
-![](<../.gitbook/assets/image (32) (1).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지5.jpg)
 
 * **자율 제안**
 
@@ -42,8 +42,8 @@
 
 ### **화이트 리스팅**
 
-![](<../.gitbook/assets/image (23).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지6.jpg)
 
 ### 유동성 풀 페어 · 유동성 페어 부스팅
 
-![](<../.gitbook/assets/image (38).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지7.jpg)
