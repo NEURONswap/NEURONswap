@@ -22,6 +22,18 @@
 * [Referral](product/undefined-5.md)
 * [Roadmap](product/undefined-6.md)
 
+## User Guide
+
+* [Connect to Wallet](user-guide/connect-to-wallet.md)
+* [Launchpad](user-guide/launchpad.md)
+* [How to SWAP](user-guide/how-to-swap.md)
+* [Liquidity Pool Deposit/Withdraw](user-guide/liquidity-pool-deposit-withdraw.md)
+* [FAQ](user-guide/faq.md)
+
+## Note
+
+* [Risk / Security](note/risk-security.md)
+
 ## Tokenomics
 
 * [Tokenomics](tokenomics/tokenomics.md)
