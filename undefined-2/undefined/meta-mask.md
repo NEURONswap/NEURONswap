@@ -14,3 +14,4 @@
   * Currency Symbol (optional) : KLAY
   * Block Explorer URL (optional) : https://scope.klaytn.com
 * “Save” 버튼을 클릭합니다.
+* 오르빗 브릿지에ㅛ [https://bridge.orbitchain.io/](https://bridge.orbitchain.io)
