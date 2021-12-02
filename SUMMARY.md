@@ -22,22 +22,21 @@
 * [레퍼럴](undefined/undefined-5.md)
 * [로드맵](undefined/undefined-6.md)
 
-## 토크노믹스
-
-* [Tokenomics](undefined-1/tokenomics.md)
-
 ***
 
-* [이용가이드](undefined-2/README.md)
-  * [지갑연결](undefined-2/undefined/README.md)
-    * [카카오톡 Klip(웹)](undefined-2/undefined/klip.md)
-    * [카카오톡 Klip(모바일)](undefined-2/undefined/klip-1.md)
-    * [Kaikas (웹)](undefined-2/undefined/kaikas.md)
-    * [Meta Mask (웹/모바일)](undefined-2/undefined/meta-mask.md)
-  * [런치패드 참여](undefined-2/undefined-1.md)
-  * [스왑](undefined-2/undefined-2.md)
-  * [풀](undefined-2/undefined-3.md)
-  * [Page 4](undefined-2/page-4.md)
+* [이용가이드](undefined-1/README.md)
+  * [지갑연결](undefined-1/undefined/README.md)
+    * [카카오톡 Klip(웹)](undefined-1/undefined/klip.md)
+    * [카카오톡 Klip(모바일)](undefined-1/undefined/klip-1.md)
+    * [Kaikas (웹)](undefined-1/undefined/kaikas.md)
+    * [Meta Mask (웹/모바일)](undefined-1/undefined/meta-mask.md)
+  * [런치패드 참여](undefined-1/undefined-1.md)
+  * [스왑](undefined-1/undefined-2.md)
+  * [풀](undefined-1/undefined-3.md)
+
+## 토크노믹스
+
+* [Tokenomics](undefined-2/tokenomics.md)
 
 ## 유의사항
 
