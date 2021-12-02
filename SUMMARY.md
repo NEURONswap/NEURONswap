@@ -34,10 +34,6 @@
   * [스왑](undefined-2/undefined-2.md)
   * [풀](undefined-2/undefined-3.md)
 
-## FAQ
-
-* [FAQ](faq/faq.md)
-
 ## 유의사항
 
 * [위험/보안](undefined-3/undefined.md)
