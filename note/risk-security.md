@@ -7,11 +7,11 @@ description: >-
 
 # Risk / Security
 
-### **Notice**
+## **Notice**
 
 Users must know how to use NEURONswap. When a user uses NEURONswap, it is acknowledged that he or she has fully understood and agreed to the contents of the notice.
 
-### **Asset Deposit & Withdrawal**
+## **Asset Deposit & Withdrawal**
 
 Users should note the following when depositing and withdrawing assets from NEURONswap.
 
@@ -21,11 +21,11 @@ Users should note the following when depositing and withdrawing assets from NEUR
 
 * ​To request a transaction, users must have a Klaytn wallet that can handle Klaytn assets, and Klaytn (KLAY) to be used as a transaction processing fee (gas fee) on the Klaytn chain.
 
-### Swap / LP Deposit / Staking
+## Swap / LP Deposit / Staking
 
 You can exchange your assets through swaps, deposit liquidity pools and also stake tokens on NEURONswap. Users may act as the three major entities and should participate in the transaction with a clear understanding that all risks of using the service are 100% their own for other risks that may arise from their actions.
 
-### **User Responsibilities**
+## **User Responsibilities**
 
 * All responsibility for using the NEURONswap service rests with the user, and the user must clearly understand this and proceed with the transaction at his or her own risk.&#x20;
 
@@ -49,6 +49,9 @@ You can exchange your assets through swaps, deposit liquidity pools and also sta
 
 
 * NEURONswap is not responsible for any third party services, including the Klaytn blockchain platform.
+
+
+
 * NEURONswap is a Dapp designed to directly interact with the Klaytn blockchain through automated smart contract code, but the integrity of the code cannot be completely guaranteed due to the complexity of the software and the inherent limitations of the technology. Therefore, there may be undetected flaws in the smart contract code used by NEURONswap, and the transaction should proceed with the risk of loss of principal through hacking and flash loan attacks that exploit these flaws.
 
 
