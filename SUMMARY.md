@@ -26,18 +26,22 @@
 
 * [Tokenomics](undefined-1/tokenomics.md)
 
-## 이용가이드
+***
 
-* [지갑연결](undefined-2/undefined.md)
-* [런치패드 참여](undefined-2/undefined-1.md)
-* [스왑](undefined-2/undefined-2.md)
-* [풀](undefined-2/undefined-3.md)
-* [FAQ](undefined-2/faq.md)
+* [이용가이드](undefined-2/README.md)
+  * [지갑연결](undefined-2/undefined.md)
+  * [런치패드 참여](undefined-2/undefined-1.md)
+  * [스왑](undefined-2/undefined-2.md)
+  * [풀](undefined-2/undefined-3.md)
+
+## FAQ
+
+* [FAQ](faq/faq.md)
 
 ## 유의사항
 
 * [위험/보안](undefined-3/undefined.md)
 
-## 보도자료 및 브랜딩 자산
+## NEURONswap 로고
 
-* [메인 로고](undefined-4/undefined.md)
+* [메인 로고](<neuronswap/undefined (1).md>)
