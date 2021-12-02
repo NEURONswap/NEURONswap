@@ -6,7 +6,7 @@ The governance members propose an agenda on protocol’s technology, governance 
 
 ### **Technology**
 
-![](<../.gitbook/assets/image (17) (1).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지4.jpg)
 
 * **Code Suggestion**
 
@@ -22,7 +22,7 @@ Passed agendas are cast, queued in Timelock, and can be implemented in 2 days. O
 
 ### **Governance Rule and Economy**
 
-![](<../.gitbook/assets/image (32) (1).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지5.jpg)
 
 * **Autonomous Proposal**
 
@@ -42,8 +42,8 @@ The voting process is a process for governance members to influence the operatio
 
 ### **Whitelisting**
 
-![](<../.gitbook/assets/image (23).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지6.jpg)
 
 ### Liquidity Pool Pair  · Liquidity Fair Boosting
 
-![](<../.gitbook/assets/image (38).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지7.jpg)

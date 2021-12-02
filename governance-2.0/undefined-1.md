@@ -1,6 +1,6 @@
 # Protocol Configuration
 
-![Protocol Composition](<../.gitbook/assets/image (18).png>)
+![Protocol Composition](../.gitbook/assets/백서그래픽정리\_대지3.jpg)
 
 ### **Governance Member**
 

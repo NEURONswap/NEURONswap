@@ -4,7 +4,7 @@ description: Metanance is governance 2.0 which refers to governance in metaverse
 
 # Metanance
 
-![](<../.gitbook/assets/image (6).png>)
+![](../.gitbook/assets/백서그래픽정리\_대지2.jpg)
 
 Metaverse provides people with opportunities to create new values in a future society where jobs are lost by artificial intelligence and robots. Metaverse allows users to interact three-dimensionally and expands the scope of social and economic activities without time and space restrictions. These changes can be seen as a natural flow of IT development. With the birth of the Internet, the connection between humans and the virtual world began. Transaction of money through the Internet, Internet-based e-commerce can also be viewed as a part of the metaverse which connects the real world and virtual world(Internet) to enable social and economic activities..
 

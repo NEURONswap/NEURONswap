@@ -32,9 +32,7 @@ _\*NR tokens have a total of 5 deflationary periods every 4 Months. Deflation is
 * Advisor: 4.96%
 * Initial Supply: 0.47%
 
-![](<../.gitbook/assets/image (24).png>)
-
-***
+![](../.gitbook/assets/백서그래픽정리\_대지8.jpg)
 
 ### **Liquidity Provider**
 
