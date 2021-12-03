@@ -3,7 +3,9 @@
 * Please complete the installation of Metamask on your Chrome browser or mobile.
 * After running Metamask, click the “Custom RPC” button in the network settings menu.
 
+![](../../.gitbook/assets/메타마스크연결1.png)
 
+![](broken-reference) ![](../../.gitbook/assets/메타마스크연결2.png)
 
 * Enter your network information below.
   * Network Name: Klaytn Cypress
