@@ -29,7 +29,11 @@
 ***
 
 * [USER GUIDE](user-guide/README.md)
-  * [Connect to Wallet](user-guide/connect-to-wallet.md)
+  * [Connect to Wallet](user-guide/connect-to-wallet/README.md)
+    * [Kakaotalk Klip (WEB)](user-guide/connect-to-wallet/kakaotalk-klip-web.md)
+    * [Kakaotalk Klip (Mobile)](user-guide/connect-to-wallet/kakaotalk-klip-mobile.md)
+    * [Kaikas(WEB)](user-guide/connect-to-wallet/kaikas-web.md)
+    * [Meta MASK (WEB/Mobile)](user-guide/connect-to-wallet/meta-mask-web-mobile.md)
   * [Launchpad](user-guide/launchpad.md)
   * [How to SWAP](user-guide/how-to-swap.md)
   * [Liquidity Pool Deposit/Withdraw](user-guide/liquidity-pool-deposit-withdraw.md)
