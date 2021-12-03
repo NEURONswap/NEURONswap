@@ -1,4 +1,4 @@
 # Kakaotalk Klip (Mobile)
 
-* 우측 상단 "Connect Wallet" 클릭 후, \[**카카오 Klip 지갑 연결**] 버튼을 클릭합니다.&#x20;
-* 자동으로 클립 지갑이 실행되며,  \[**다음**] 버튼을 클릭하여 NEURONswap 서비스에 연결을 완료합니다.&#x20;
+* Click the “Connect Wallet” button at the upper right corner and click the “Connect to Kakao Klip” button.
+* Klip will automatically be opened. Press the “Next” button to complete the connection.
