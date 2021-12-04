@@ -8,8 +8,8 @@
 ![](../../.gitbook/assets/메타마스크연결2.png)
 
 * 아래 네트워크 정보를 입력 합니다.
-  * Network Name: Klaytn Cypress
-  * New RPC URL: (Default: [http://localhost:8551](http://localhost:8551))
+  * Network Name: Klaytn Mainnet Cypress
+  * New RPC URL: https://kaikas.cypress.klaytn.net:8651
   * Chain ID : 8217
   * Currency Symbol (optional) : KLAY
   * Block Explorer URL (optional) : https://scope.klaytn.com
