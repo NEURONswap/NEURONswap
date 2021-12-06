@@ -2,7 +2,7 @@
 
 * Go to NEURONswap Launchpad page(https://launchpad.neuronswap.com/purchase) and click ‘Purchase NR’
 
-&#x20;     _\* 최_For the first time, the "approval" procedure is required when connecting the wallet.
+&#x20;     _\*_ For the first time, the "approve" procedure is required when connecting the wallet.
 
 &#x20;     _\*_ Refer to "User Guide-Connect to Wallet" for how to connect your wallet.
 
