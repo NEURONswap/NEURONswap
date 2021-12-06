@@ -26,16 +26,15 @@
 
 * [Tokenomics](undefined-1/tokenomics.md)
 
-***
+## 유저가이드
 
-* [이용가이드](undefined-2/README.md)
-  * [지갑연결](undefined-2/undefined/README.md)
-    * [카카오톡 Klip(웹)](undefined-2/undefined/klip.md)
-    * [카카오톡 Klip(모바일)](undefined-2/undefined/klip-1.md)
-    * [Kaikas (웹)](undefined-2/undefined/kaikas.md)
-  * [런치패드 참여](undefined-2/undefined-1.md)
-  * [스왑](undefined-2/undefined-2.md)
-  * [풀](undefined-2/undefined-3.md)
+* [지갑연결](undefined-2/undefined/README.md)
+  * [카카오톡 Klip(웹)](undefined-2/undefined/klip.md)
+  * [카카오톡 Klip(모바일)](undefined-2/undefined/klip-1.md)
+  * [Kaikas (웹)](undefined-2/undefined/kaikas.md)
+* [런치패드 참여](undefined-2/undefined-1.md)
+* [스왑](undefined-2/undefined-2.md)
+* [풀](undefined-2/undefined-3.md)
 
 ## 유의사항
 
