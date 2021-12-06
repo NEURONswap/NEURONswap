@@ -23,7 +23,7 @@ Users should note the following when depositing and withdrawing assets from NEUR
 
 ## Swap / LP Deposit / Staking
 
-You can exchange your assets through swaps, deposit liquidity pools and also stake tokens on NEURONswap. Users may act as the three major entities and should participate in the transaction with a clear understanding that all risks of using the service are 100% their own for other risks that may arise from their actions.
+You can exchange your assets through swaps, LP Deposit and staking tokens on NEURONswap. Users may act as the three major entities and should participate in the transaction with a clear understanding that all risks of using the service are 100% their own for other risks that may arise from their actions.
 
 ## **User Responsibilities**
 
