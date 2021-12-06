@@ -15,7 +15,3 @@
 {% content-ref url="kaikas-web.md" %}
 [kaikas-web.md](kaikas-web.md)
 {% endcontent-ref %}
-
-{% content-ref url="meta-mask-web-mobile.md" %}
-[meta-mask-web-mobile.md](meta-mask-web-mobile.md)
-{% endcontent-ref %}
