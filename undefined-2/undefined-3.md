@@ -2,11 +2,11 @@
 
 ## 유동성풀 예치 / 출금
 
-* NEURONswap([https://launchpad.neuronswap.com](https://launchpad.neuronswap.com))에 접속 후, Launch app 버튼을 클릭합니다.
+* NEURONswap에 접속 후, 페이지 상단 예치 버튼을 클릭합니다.
 
 
 
-* 상단 예치 탭을 누르고, 예치 가능 목록에서 원하는 유동성 풀을 선택합니다.
+* 예치 가능 목록에서 원하는 유동성 풀을 선택합니다.
 
 
 
