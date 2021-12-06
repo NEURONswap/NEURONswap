@@ -10,11 +10,9 @@
 
 ![](<../.gitbook/assets/런치패드참여하기\_1 사본 6.jpg>)
 
-![](<../.gitbook/assets/런치패드참여하기\_1 사본 7.jpg>)
-
 * NR tokens can be purchased by KLAY, KSP, KORC, KETH and deposited KSP, KORC, KETH quantities will be converted to KLAY.
 
-
+![](<../.gitbook/assets/런치패드참여하기\_1 사본 7.jpg>)
 
 * 20% of locked up tokens can be received immediately when the Launchpad ends at 19:00 P.M. December 27th. The 80% will be unlocked for every block for 90 days after official launch.
 
