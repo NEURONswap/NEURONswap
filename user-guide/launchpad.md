@@ -2,9 +2,11 @@
 
 * Go to NEURONswap Launchpad page(https://launchpad.neuronswap.com/purchase) and click ‘Purchase NR’
 
+&#x20;   _\*_Refer to "User Guide-Connect to Wallet" for how to connect your wallet.
 
 
-* NR tokens can be purchased by KLAY, KSP, ORC, KETH and deposited KSP, ORC, KETH quantities will be converted to KLAY.
+
+* NR tokens can be purchased by KLAY, KSP, KORC, KETH and deposited KSP, KORC, KETH quantities will be converted to KLAY.
 
 
 
