@@ -9,13 +9,13 @@ description: >-
 
 ## **Notice**
 
-Users must know how to use NEURONswap. When a user uses NEURONswap, it is acknowledged that he or she has fully understood and agreed to the contents of the notice.
+Users must be fully aware of how to use NEURONswap. When a user uses NEURONswap, it is acknowledged that he or she has fully understood and agreed to the contents of the notice.
 
 ## **Asset Deposit & Withdrawal**
 
-Users should note the following when depositing and withdrawing assets from NEURONswap.
+Users should note the following when depositing/withdrawing assets from NEURONswap.
 
-* Assets that can be used for deposits and withdrawals in NEURONswap are the Klaytn Compatible Tokens(KCT) issued on the Klaytn Chain. Therefore, assets from other chains which are not the Klaytn Compatible Tokens(KCT) must be converted into a Klaytn compatible token (K-asset) through the Orbit Bridge to be deposited. **** [ORBIT BRIDGE WEBSITE​](https://bridge.orbitchain.io)
+* ONLY Klaytn Compatible Tokens(KCT) which are issued on the Klaytn Chain can be used for deposits and withdrawals in NEURONswap.Therefore, assets from other chains which are not the Klaytn Compatible Tokens(KCT) must be converted into a Klaytn compatible token (K-asset) through the Orbit Bridge to be deposited. **** [ORBIT BRIDGE WEBSITE​](https://bridge.orbitchain.io)
 
 
 
