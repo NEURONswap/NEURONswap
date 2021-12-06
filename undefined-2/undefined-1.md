@@ -1,9 +1,9 @@
 # 런치패드 참여
 
 * NEURONswap([https://launchpad.neuronswap.com](https://launchpad.neuronswap.com))에 접속 후, 지갑연결 뒤  뉴런구매 버튼을 클릭합니다.
-  * _20_
+  * _지갑연결 방법은 '유저가이드 -지갑연결' 을참고합시십시오 ._   &#x20;
 
-
+__
 
 * NR토큰은 KLAY, KSP, KORC, KETH로 구매가 가능하며 입금된 KSP, KORC, KETH 수량은 KLAY로 환산되어 계산됩니다.
 
