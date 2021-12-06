@@ -8,7 +8,7 @@
 
 ![](<../../.gitbook/assets/지갑연결하기 클립\_9.jpg>)
 
-![](<../../.gitbook/assets/지갑연결하기 클립\_10.jpg>)
+![](<../../.gitbook/assets/web kor,en (3).jpg>)
 
 * '서비스 연결 요청 창'에서 NEURONswap에 대한 연결을 허용합니다.&#x20;
 

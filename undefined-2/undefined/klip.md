@@ -4,7 +4,7 @@
 
 ![](<../../.gitbook/assets/지갑연결하기 클립\_1.jpg>)
 
-![](<../../.gitbook/assets/지갑연결하기 클립\_2 (1).jpg>)
+![](<../../.gitbook/assets/web kor,en (1).jpg>)
 
 * 카카오톡 앱을 실행하여 화면에 표시된 QR 코드를 스캔합니다.
 
