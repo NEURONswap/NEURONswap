@@ -1,8 +1,8 @@
 ---
 description: >-
   Users of NEURONswap can utilize the service interface in NEURONswap through
-  their own Klaytn blockchain wallet, exchange various virtual assets, supply
-  liquidity and staking functions.
+  their own Klaytn blockchain wallet. Users can swap the assets, supply
+  liquidity and stake NR tokens.
 ---
 
 # Risk / Security
