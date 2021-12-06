@@ -1,7 +1,8 @@
 # 런치패드 참여
 
-* NEURONswap([https://launchpad.neuronswap.com](https://launchpad.neuronswap.com))에 접속 후, 지갑연결 뒤  뉴런구매 버튼을 클릭합니다.
-  * _지갑연결 방법은 '유저가이드 -지갑연결'을 참고 십시오 ._   &#x20;
+*   NEURONswap([https://launchpad.neuronswap.com](https://launchpad.neuronswap.com))에 접속 후, 지갑연결 뒤  뉴런구매 버튼을 클릭합니다.
+
+    _\*지갑연결 방법은 '유저가이드 -지갑연결 '을 참고  하십시오 ._    &#x20;
 
 __
 
