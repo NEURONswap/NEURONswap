@@ -33,7 +33,7 @@
   * [Kakaotalk Klip (Mobile)](user-guide/connect-to-wallet/kakaotalk-klip-mobile.md)
   * [Kaikas(WEB)](user-guide/connect-to-wallet/kaikas-web.md)
 * [Launchpad](user-guide/launchpad.md)
-* [How to SWAP](user-guide/how-to-swap.md)
+* [Swap](user-guide/swap.md)
 * [Liquidity Pool Deposit/Withdraw](user-guide/liquidity-pool-deposit-withdraw.md)
 
 ## Note
