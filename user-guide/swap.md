@@ -1,4 +1,7 @@
-# How to SWAP
+# Swap
 
-* Go to NEURONswap page([https://launchpad.neuronswap.com](https://launchpad.neuronswap.com)) and click “Launch App”
-* Click “Swap” at the top, select tokens and swap
+* Go to NEURONswap page and click “Swap” at the top
+
+
+
+* select tokens and swap
