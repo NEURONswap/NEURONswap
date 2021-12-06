@@ -33,7 +33,6 @@
     * [카카오톡 Klip(웹)](undefined-2/undefined/klip.md)
     * [카카오톡 Klip(모바일)](undefined-2/undefined/klip-1.md)
     * [Kaikas (웹)](undefined-2/undefined/kaikas.md)
-    * [Meta Mask (웹/모바일)](undefined-2/undefined/meta-mask.md)
   * [런치패드 참여](undefined-2/undefined-1.md)
   * [스왑](undefined-2/undefined-2.md)
   * [풀](undefined-2/undefined-3.md)

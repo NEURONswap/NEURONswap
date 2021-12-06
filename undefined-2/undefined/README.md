@@ -16,6 +16,6 @@
 [kaikas.md](kaikas.md)
 {% endcontent-ref %}
 
-{% content-ref url="meta-mask.md" %}
-[meta-mask.md](meta-mask.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
