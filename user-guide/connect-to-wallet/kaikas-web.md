@@ -8,7 +8,7 @@
 
 ![](<../../.gitbook/assets/지갑연결하기 클립\_12.jpg>)
 
-![](<../../.gitbook/assets/지갑연결하기 클립\_13 (1).jpg>)
+![](<../../.gitbook/assets/web kor,en (4).jpg>)
 
 * Accept the connection to NEURONswap in the **“Kaikas Notification Window”**.
 
