@@ -34,7 +34,7 @@
   * [Kaikas (웹)](undefined-2/undefined/kaikas.md)
 * [런치패드 참여](undefined-2/undefined-1.md)
 * [스왑](undefined-2/undefined-2.md)
-* [풀](undefined-2/undefined-3.md)
+* [유동성풀 예치 / 출금](undefined-2/undefined-3.md)
 
 ## 유의사항
 
