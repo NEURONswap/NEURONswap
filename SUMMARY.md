@@ -28,7 +28,7 @@
 
 ***
 
-* [USER GUIDE](user-guide/README.md)
+* [User Guide](user-guide/README.md)
   * [Connect to Wallet](user-guide/connect-to-wallet/README.md)
     * [Kakaotalk Klip (WEB)](user-guide/connect-to-wallet/kakaotalk-klip-web.md)
     * [Kakaotalk Klip (Mobile)](user-guide/connect-to-wallet/kakaotalk-klip-mobile.md)
