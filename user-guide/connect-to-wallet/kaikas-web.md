@@ -7,6 +7,6 @@
 
 ![](<../../.gitbook/assets/지갑연결하기 클립\_13.jpg>)
 
-* Accept the connection to NEURONswap in the **“Service Connection Request Window”**.
+* Accept the connection to NEURONswap in the **“Kaikas Notification Window”**.
 
 ![](<../../.gitbook/assets/지갑연결하기 클립\_14.jpg>)
