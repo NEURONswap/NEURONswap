@@ -1,6 +1,6 @@
 # Kakaotalk Klip (WEB)
 
-* Click the “Connect Wallet” button at the upperright corner and click the **“Connect to Kakao Klip”** button.
+* Click the “Connect Wallet” button at the upper right corner and click the **“Connect to Kakao Klip”** button.
 
 ![](<../../.gitbook/assets/지갑연결하기 클립\_5.jpg>)
 
