@@ -15,7 +15,3 @@
 {% content-ref url="kaikas.md" %}
 [kaikas.md](kaikas.md)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
