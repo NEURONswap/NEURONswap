@@ -47,3 +47,7 @@
 ***
 
 * [NEURONswap](https://launchpad.neuronswap.com/demo/swap)
+* [LaunchPad](https://launchpad.neuronswap.com/purchase/ko)
+* [Medium](https://medium.com/@neuronswap)
+* [Twitter](https://twitter.com/neuronswap)
+* [Telegram](https://t.me/NEURONswap\_KR)
