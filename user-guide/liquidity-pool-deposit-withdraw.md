@@ -4,7 +4,7 @@
 
 
 
-* select the pool in the assets available for deposit.
+* Select the pool in the assets available for deposit.
 
 
 
