@@ -18,7 +18,7 @@ Rony Box can be purchased with NR tokens. It is an item where Ronys can obtain 6
 
 ### **Rony Member Titles and Benifits**
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 ### **Rony Club NFT**
 
