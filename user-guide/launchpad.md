@@ -1,5 +1,17 @@
 # Launchpad
 
+\- Date: 2021.12.13 (Mon) 10:00 A.M – 12.14(Tue) 09:59:59 A.M (UTC )
+
+&#x20; \*Please note that launchpad will be held for a limited time(24
+
+\- Tokens Quantity Offered: 2,390,288 NR (0.47% of Total Issuance)
+
+\- Tokens that can participate in: KLAY, KETH, KSP, KORC
+
+\- The minimum of 500,000 KLAYs should be deposited to complete the Launchpad.
+
+\- When less than 500,000 KLAYs are deposited, the tokens will be returned.
+
 * Go to NEURONswap Launchpad page(https://launchpad.neuronswap.com/purchase) and click ‘Purchase NR’
 
 &#x20;     _\*_ For the first time, the "approve" procedure is required when connecting the wallet.
