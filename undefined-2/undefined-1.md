@@ -10,7 +10,7 @@
 
 \- 최소 500,000 KLAY가 모였을 때 런치패드가 성사됩니다.    &#x20;
 
-
+\- 500,000 KLAY 미만일 시, 입금하신 토큰은 자동으로 반환됩니다.  &#x20;
 
 *   NEURONswap([https://launchpad.neuronswap.com](https://launchpad.neuronswap.com))에 접속 후, 지갑연결 뒤  뉴런구매 버튼을 클릭합니다.
 
