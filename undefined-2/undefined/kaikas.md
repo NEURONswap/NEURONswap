@@ -2,7 +2,7 @@
 
 * **크롬 브라우저** 상에서 **Kaikas 지갑 설치**를 완료해주세요.
 
-&#x20;    \* Kaikas(웹) 다운로드 링  ( [https://bit.ly/3dzmTqj](https://bit.ly/3dzmTqj))
+&#x20;    \* Kaikas(웹) 다운로드 링크  ( [https://bit.ly/3dzmTqj](https://bit.ly/3dzmTqj))
 
 
 
