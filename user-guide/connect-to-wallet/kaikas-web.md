@@ -2,6 +2,8 @@
 
 * Please complete the Kaikas wallet **installation on your Chrome browser**.
 
+&#x20;    \* Kaikas(WEB) Download link ( [https://bit.ly/3dzmTqj](https://bit.ly/3dzmTqj))
+
 
 
 * **Click "Connect Wallet"** in the upper right corner, and then click the **\[Connect Kaikas Wallet]** button.
