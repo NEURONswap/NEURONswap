@@ -2,7 +2,7 @@
 
 * Please complete the Kaikas wallet **installation on your Chrome browser**.
 
-&#x20;    \* Kaikas(WEB) Download link ( [https://bit.ly/3dzmTqj](https://bit.ly/3dzmTqj))
+&#x20;    \* Kaikas(WEB) Download link ([https://bit.ly/3dzmTqj](https://bit.ly/3dzmTqj))
 
 
 
