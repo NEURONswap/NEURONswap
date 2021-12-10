@@ -20,7 +20,7 @@
 
 ![](../.gitbook/assets/런치패드참여하기\_1.jpg)
 
-![](<../.gitbook/assets/런치패드참여하기\_1 사본.jpg>)
+![](../.gitbook/assets/launchpad-2.jpg)
 
 * NR토큰은 KLAY, KSP, KORC, KETH로 구매가 가능하며 입금된 KSP, KORC, KETH 수량은 KLAY로 환산되어 계산됩니다.
 
