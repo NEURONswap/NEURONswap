@@ -20,7 +20,7 @@
 
 ![](<../.gitbook/assets/런치패드참여하기\_1 사본 5.jpg>)
 
-![](<../.gitbook/assets/런치패드참여하기\_1 사본 6.jpg>)
+![](../.gitbook/assets/launchpad-1.jpg)
 
 * NR tokens can be purchased by KLAY, KSP, KORC, KETH and deposited KSP, KORC, KETH quantities will be converted to KLAY.
 
