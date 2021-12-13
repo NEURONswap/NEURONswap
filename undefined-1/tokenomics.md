@@ -5,7 +5,7 @@
 ![](../.gitbook/assets/KakaoTalk\_20211125\_112630909.png)
 
 * **Ticker : NR**
-* **Contract address** : ​[0x340073962a8561cb9e0c271aab7e182d5f5af5c8](https://scope.klaytn.com/account/0x340073962a8561cb9e0c271aab7e182d5f5af5c8)
+* **Contract address** : [https://scope.klaytn.com/token/0x340073962a8561cb9e0c271aab7e182d5f5af5c8?tabId=tokenTransfer](https://scope.klaytn.com/token/0x340073962a8561cb9e0c271aab7e182d5f5af5c8?tabId=tokenTransfer)
 * **Chain : Klaytn (Cypress)**
 
 ## Token Allocation
