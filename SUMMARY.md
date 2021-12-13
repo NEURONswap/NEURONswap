@@ -40,6 +40,10 @@
 
 * [위험/보안](undefined-3/undefined.md)
 
+## FAQ
+
+* [FAQ](faq/faq.md)
+
 ## NEURONswap 로고
 
 * [메인 로고](<neuronswap/undefined (1).md>)
