@@ -42,7 +42,7 @@
 
 ## FAQ
 
-* [FAQ](faq/faq.md)
+* [자주 묻는 질문](faq/undefined.md)
 
 ## NEURONswap 로고
 
