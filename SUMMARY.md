@@ -40,6 +40,10 @@
 
 * [Risk / Security](note/risk-security.md)
 
+## FAQ
+
+* [FAQ](faq/faq.md)
+
 ## NEURONswap LOGO
 
 * [Main Logo](neuronswap-logo/main-logo.md)
