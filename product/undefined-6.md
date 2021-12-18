@@ -17,5 +17,4 @@
 
 ## 2023 Q4
 
-* Interswap Open
 * Vote for additional issuance of governance tokens
