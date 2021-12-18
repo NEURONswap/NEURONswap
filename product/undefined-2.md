@@ -12,8 +12,6 @@ Due to the nature of the inverse graph, it converges to infinity at both ends, s
 
 ## **Fee**
 
-There is a 0.3% transaction fee when trading on NEURONswap.&#x20;
-
-0.03% will be distributed to liquidity providers and the remaining 0.27% will be used for buybacks.
+When using the Neuron Swap service, a transaction fee of 0.03% of the transaction volume is incurred. Neuron Swap pays back 10% of the transaction fee in NR tokens.
 
 ![](<../.gitbook/assets/image (42).png>)
