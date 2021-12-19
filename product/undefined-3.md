@@ -4,7 +4,7 @@ Abundant liquidity is essential to create a slippage-free trading environment in
 
 Liquidity providers are rewarded with NR tokens and fees as a reward for providing liquidity to the pool through staking for the staking period. Transaction fees are credited to the pool, and when it is withdrawn, fees are included according to the exchange rate.
 
-The liquidity pool of NEURONswap can be freely created by any protocol participant, and is divided into NR_2, NR_1, NR_0, depending on the amount of neuron token distribution. It is classified according to the importance of the tokens provided by the liquidity pool and their contribution to the protocol. Users can receive a larger distribution of NR tokens for NR_2 than other pairs. NR tokens are not distributed for NR\*0 which is new projects or pairs that contribute relatively little to the protocol.
+The liquidity pool of NEURONswap can be freely created by any protocol participant, and is divided into NR_3_, NR_2, NR_1, NR_0, depending on the amount of neuron token distribution. It is classified according to the importance of the tokens provided by the liquidity pool and their contribution to the protocol. Users can receive a larger distribution of NR tokens for NR_2 than other pairs. NR tokens are not distributed for NR\*0 which is new projects or pairs that contribute relatively little to the protocol.
 
 If liquidity is supplied to a pool that is undergoing a token airdrop, airdrop tokens are distributed according to the share.
 
