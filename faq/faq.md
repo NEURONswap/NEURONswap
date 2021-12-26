@@ -12,7 +12,7 @@ Launchpad Date: 2021.12.13(Mon) 10:00 A.M. - 12.14(Tue) 09:59:59 (UTC) \*The Lau
 
 #### **When can I claim my rewards?**
 
-The 20% of the locked-up tokens can be claimed at 10:00 A.M. on the 27th of December. The rest will be unlocked every block for 90 days​.
+The 20% of the locked-up tokens can be claimed at 9:30 A.M. on the 27th of December. The rest will be unlocked every block for 90 days​.
 
 ****
 
