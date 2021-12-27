@@ -32,4 +32,4 @@
 
 * The expected amount of NR tokens you will receive will depend on the exchange rate of NR tokens at the end of the Launchpad and the amount of tokens deposited.
 
-![](<../.gitbook/assets/런치패드참여하기\_1 사본 9.jpg>)
+![](../.gitbook/assets/launch\_2.jpg)
