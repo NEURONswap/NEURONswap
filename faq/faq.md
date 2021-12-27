@@ -57,3 +57,9 @@ The launchpad is held for a limited time(24 hours) and is not on a first-come, f
 Deposited KSP, KORC, KETH is converted to KLAY at the exchange rate at the end of the launchpad.​ NR tokens according to the deposit will be distributed.
 
 \*The minimum of 500,000 KLAYs should be deposited to complete the Launchpad. When less than 500,000 KLAYs are deposited, the tokens will be returned.
+
+
+
+**Liquidity Providing Wallet Address**
+
+0x2Cc14f024245e3811Ed87b54B1090522205b46Ee
