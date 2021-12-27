@@ -14,8 +14,6 @@
 * **Initial Starting Supply : 2,390,288 NR**
 * **Daily NR Mining Volume : 885,000 NR**
 
-![](<../.gitbook/assets/image (34).png>)
-
 \*_The total issuance period of NR tokens is 2 years._
 
 _\*Before all tokens are minted after 2 years, a governance vote is held to decide whether to issue additional governance tokens._
@@ -23,6 +21,8 @@ _\*Before all tokens are minted after 2 years, a governance vote is held to deci
 _\*Before the issuance of a total of 500 million tokens for 2 years is completed, the number of additional issuance, period, and distribution are decided by governance voting._
 
 _\*NR tokens have a total of 5 deflationary periods every 4 Months. Deflation is designed to reduce the issuance volume by 10% compared to the existing issuance volume to prevent rapid deflation._
+
+![](<../.gitbook/assets/image (12).png>)
 
 ## Token Distribution
 
