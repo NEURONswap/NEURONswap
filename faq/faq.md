@@ -34,10 +34,6 @@ Metamask will be supported at the time of our official launch.
 
 
 
-#### **Is the team anonymous?**
-
-In the first half of 2022, NEURON developers and partners will be revealed.
-
 
 
 #### **Is the project being audited?**
