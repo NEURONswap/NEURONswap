@@ -58,4 +58,6 @@ NEURONswap은 보안 전문업체 서틱(CertiK)을 통해 보안감사를 진�
 
 
 
-NEURON(NR) 토큰은 어디서 스왑이 가능한가요&#x20;
+**NEURON(NR) 토큰은 어디서 스왑이 가능한가요**&#x20;
+
+NR토큰은 현재 NEURONswap 홈페이지([https://neuronswap.com/](https://neuronswap.com))에서만 거래가 가능합니다.&#x20;
