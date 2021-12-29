@@ -18,6 +18,8 @@
 
 
 
+
+
 **오딧은 진행중인가요?**
 
 NEURONswap은 보안 전문업체 서틱(CertiK)을 통해 보안감사를 진행중에 있습니다.
@@ -55,9 +57,3 @@ NEURONswap은 보안 전문업체 서틱(CertiK)을 통해 보안감사를 진�
 **유동성 공급지갑 주소**
 
 0x2Cc14f024245e3811Ed87b54B1090522205b46Ee
-
-
-
-**NEURON(NR) 토큰은 어디서 거래가 가능한가요**&#x20;
-
-NR토큰은 현재 NEURONswap 홈페이지([https://neuronswap.com/](https://neuronswap.com))에서만 거래가 가능합니다.&#x20;
