@@ -12,6 +12,6 @@ Due to the nature of the inverse graph, it converges to infinity at both ends, s
 
 ## **Fee**
 
-When using the Neuron Swap service, a transaction fee of 0.03% of the transaction volume is incurred. Neuron Swap pays back 10% of the transaction fee in NR tokens.
+When using the Neuron Swap service, a transaction fee of 0.3% of the transaction volume is incurred. Neuron Swap pays back 10% of the transaction fee in NR tokens.
 
 ![](<../.gitbook/assets/백서그래픽정리 레퍼럴 사용하지 않는 경우.jpg>)
