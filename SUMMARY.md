@@ -32,9 +32,8 @@
   * [카카오톡 Klip(웹)](undefined-2/undefined/klip.md)
   * [카카오톡 Klip(모바일)](undefined-2/undefined/klip-1.md)
   * [Kaikas (웹)](undefined-2/undefined/kaikas.md)
-* [런치패드 참여](undefined-2/undefined-1.md)
-* [스왑](undefined-2/undefined-2.md)
-* [유동성풀 예치 / 출금](undefined-2/undefined-3.md)
+* [스왑](undefined-2/undefined-1.md)
+* [유동성풀 예치 / 출금](undefined-2/undefined-2.md)
 
 ## 유의사항
 
@@ -51,7 +50,6 @@
 ***
 
 * [NEURONswap](https://neuronswap.com)
-* [LaunchPad](https://launchpad.neuronswap.com/purchase/ko)
 * [Medium](https://medium.com/@neuronswap)
 * [Twitter](https://twitter.com/neuronswap)
 * [Telegram](https://t.me/NEURONswap\_KR)
