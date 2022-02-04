@@ -52,7 +52,7 @@ You can exchange your assets through swaps, LP Deposit and staking tokens on NEU
 
 
 
-* NEURONswap is a Dapp designed to directly interact with the Klaytn blockchain through automated smart contract code, but the integrity of the code cannot be completely guaranteed due to the complexity of the software and the inherent limitations of the technology. Therefore, there may be undetected flaws in the smart contract code used by NEURONswap, and the transaction should proceed with the risk of loss of principal through hacking and flash loan attacks that exploit these flaws.
+* NEURONswap is a Dapp designed to directly interact with the Klaytn blockchain through automated smart contract code, but the integrity of the code cannot be completely guaranteed due to the complexity of the software and the inherent limitations of the technology. Therefore, there may be undetected flaws in the smart contract code used by NEURONswap, and the transaction should proceed with the risk of loss of principal through hacking and flash loan attacks that exploit these flaws. All responsibility for using the DeFi service lies with the user, and the user should be clearly aware of this.
 
 
 
