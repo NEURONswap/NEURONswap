@@ -4,10 +4,6 @@ description: Frequently Asked Questions
 
 # FAQ
 
-#### **When is the launchpad scheduled?**
-
-Launchpad Date: 2021.12.13(Mon) 10:00 A.M. - 12.14(Tue) 09:59:59 (UTC) \*The Launchpad will be opened for 24 hours
-
 
 
 #### **When can I claim my rewards?**
@@ -15,12 +11,6 @@ Launchpad Date: 2021.12.13(Mon) 10:00 A.M. - 12.14(Tue) 09:59:59 (UTC) \*The Lau
 The 20% of the locked-up tokens can be claimed at 9:30 A.M. on the 30th of December. The rest will be unlocked every block for 90 days​.
 
 ****
-
-#### **What wallets do you support for the launchpad?**
-
-The Launchpad supports Klip(Web, Mobile) and Kaikas(Web).
-
-
 
 #### **Is there a minimum and maximum quantity for token deposit for launchpad?**
 
@@ -39,12 +29,6 @@ Metamask will be supported at the time of our official launch.
 #### **Is the project being audited?**
 
 NEURONswap is being audited by a security specialist, CertiK.
-
-
-
-#### **Is the launchpad first come first served?**
-
-The launchpad is held for a limited time(24 hours) and is not on a first-come, first-served basis. First 1000 people who deposit more than 1000 KLAYs will be given one Rony Box.
 
 
 
