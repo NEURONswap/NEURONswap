@@ -1,6 +1,6 @@
 # 지갑연결
 
-* NEURONswap([https://www.neuronswap.com/](https://www.neuronswap.com))에 접속 후, Connect Wallet 버튼을 클릭합니다.
+* NEURONswap([https://www.neuronswap.com](https://www.neuronswap.com))에 접속 후, Connect Wallet 버튼을 클릭합니다.
 
 
 
