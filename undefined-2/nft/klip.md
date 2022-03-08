@@ -24,8 +24,7 @@
 
 ![](../../.gitbook/assets/6.jpg)
 
-*
-  1.
+* 유한 NFT ID와 수량을 확인 한 뒤 Transfer 선택 후 이동할 지갑주소를 입력합니다.
 
 ![](../../.gitbook/assets/7.jpg)
 
