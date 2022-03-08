@@ -9,9 +9,9 @@
 * [https://opensea.io/](https://opensea.io) 우측 상단 “Connect your Wallet” 클릭 후 \[Kaikas 지갑 연결] 버튼을 클릭합니다.
 * 서비스 연결 요청 창에서 Opensea에 대한 연결을 허용합니다.
 
-![](../../.gitbook/assets/1.jpg)
+![](<../../.gitbook/assets/1 (1).jpg>)
 
-![](../../.gitbook/assets/2.jpg)
+![](<../../.gitbook/assets/2 (1).jpg>)
 
 * 연결된 지갑의 프로필로 접속합니다.
 
@@ -21,12 +21,12 @@
 
 ![](../../.gitbook/assets/5.jpg)
 
-![](../../.gitbook/assets/6.jpg)
+![](<../../.gitbook/assets/6 (1).jpg>)
 
 * \[Transfer] 선택 후 이동할 지갑주소를 입력합니다.
 
-![](../../.gitbook/assets/7.jpg)
+![](<../../.gitbook/assets/7 (1).jpg>)
 
-![](../../.gitbook/assets/8.jpg)
+![](<../../.gitbook/assets/8 (1).jpg>)
 
 ![](../../.gitbook/assets/9.jpg)
