@@ -34,6 +34,9 @@
   * [Kaikas (웹)](undefined-2/undefined/kaikas.md)
 * [스왑](undefined-2/undefined-1.md)
 * [유동성풀 예치 / 출금](undefined-2/undefined-2.md)
+* [NFT 지갑이동 이용가이드](undefined-2/nft/README.md)
+  * [Kaikas 지갑 유저](undefined-2/nft/kaikas.md)
+  * [Klip 지갑 유저](undefined-2/nft/klip.md)
 
 ## 유의사항
 
