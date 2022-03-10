@@ -3,7 +3,7 @@
 
 
 * Klip 지갑 유저의 NFT를 이동하기 위해 블루웨일 프로토콜에 접속합니다. ([https://app.bluewhale-protocol.com/](https://app.bluewhale-protocol.com))
-* 우측 상단 “지갑 연결” 클릭 후 \[클 연결] 버튼을 클릭합니다.
+* 우측 상단 “지갑 연결” 클릭 후 \[카카오 Klip 지갑 연결] 버튼을 클릭합니다.
 
 ![](../../.gitbook/assets/1.jpg)
 
@@ -18,13 +18,13 @@
 
 ![](<../../.gitbook/assets/4 (1).jpg>)
 
-* 주소로 NFT 추가 클릭 후 로니클럽 컨트랙트주소 를 입력합니다.
+* 주소로 NFT 추가 클릭 후 로니클럽 컨트랙트 주소를 입력합니다.
 
 ![](<../../.gitbook/assets/5 (1).jpg>)
 
 ![](../../.gitbook/assets/6.jpg)
 
-* 유한 NFT ID와 수량을 확인 한 뒤 Transfer 선택 후 이동할 지갑주소를 입력합니다.
+* 보유한 NFT ID와 수량을 확인 한 뒤 Transfer 선택 후 이동할 지갑주소를 입력합니다.
 
 ![](../../.gitbook/assets/7.jpg)
 
