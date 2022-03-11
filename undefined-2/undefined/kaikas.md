@@ -6,7 +6,7 @@
 
 
 
-* 우측 상단 "Connect Wallet" 클릭 후, \[**Kaikas 지갑 연결**] 버튼을 클릭합니다.
+* 우측 상단 \[Connect Wallet] 클릭 후, \[**Kaikas 지갑 연결**] 버튼을 클릭합니다.
 
 ![](<../../.gitbook/assets/지갑연결하기 클립\_9.jpg>)
 
