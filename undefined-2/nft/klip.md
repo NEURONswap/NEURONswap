@@ -3,7 +3,7 @@
 
 
 * Klip 지갑 유저의 NFT를 이동하기 위해 블루웨일 프로토콜에 접속합니다. ([https://app.bluewhale-protocol.com/](https://app.bluewhale-protocol.com))
-* 우측 상단 “지갑 연결” 클릭 후 \[카카오 Klip 지갑 연결] 버튼을 클릭합니다.
+* 우측 상단 \[지갑 연결] 클릭 후 \[카카오 Klip 지갑 연결] 버튼을 클릭합니다.
 
 ![](../../.gitbook/assets/1.jpg)
 

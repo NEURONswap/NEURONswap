@@ -6,7 +6,7 @@
 
 
 
-* [https://opensea.io/](https://opensea.io) 우측 상단 \[Connect your Wallet] 클릭 후 \[Kaikas 지갑 연결] 버튼을 클릭합니다.
+* [https://opensea.io/](https://opensea.io) 우측 상단 “Connect your Wallet” 클릭 후 \[Kaikas 지갑 연결] 버튼을 클릭합니다.
 * 서비스 연결 요청 창에서 Opensea에 대한 연결을 허용합니다.
 
 ![](<../../.gitbook/assets/1 (1).jpg>)
