@@ -9,7 +9,6 @@
 
 * Governance Token Staking Open
 * Rony Club(Beta) Open
-* AMM & LP advancement
 
 ## 2022 Q2 \~ 2023 Q3
 
