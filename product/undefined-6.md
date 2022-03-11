@@ -3,7 +3,7 @@
 ## 2021 Q4
 
 * NEURONswap Launchpad
-* NEURONswap Launching
+* NEURONswap Beta Launching
 
 ## 2022 Q1
 
