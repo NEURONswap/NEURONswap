@@ -1,6 +1,6 @@
 # 카카오톡 Klip(웹)
 
-* 우측 상단 "Connect Wallet" 클릭 후, \[**카카오 Klip 지갑 연결**] 버튼을 클릭합니다.
+* 우측 상단 \[Connect Wallet] 클릭 후, \[**카카오 Klip 지갑 연결**] 버튼을 클릭합니다.
 
 ![](<../../.gitbook/assets/지갑연결하기 클립\_1.jpg>)
 
