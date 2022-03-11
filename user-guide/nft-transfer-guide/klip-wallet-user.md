@@ -1,6 +1,6 @@
 # Klip Wallet User
 
-* Go to ([https://app.bluewhale.protocol.com/](https://app.bluewhale.protocol.com))
+* Go to Bluewhale Protocol ([https://app.bluewhale.protocol.com/](https://app.bluewhale.protocol.com))
 
 
 
