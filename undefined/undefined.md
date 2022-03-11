@@ -59,6 +59,8 @@ RONY CLUB에서 스테이커는 보유한 gNR 수량에 따라 5개의 칭호(�
 
 _\*NR 스테이킹이 오픈 됨에 따라, 커뮤니티 NR 분배량과 수수료 분배가 하기와 같이 변경됩니다._
 
+![](../.gitbook/assets/스테이킹서비스적용.jpg)
+
 _커뮤니티 NR 분배량 - LP Provider 60%, Trader 10%, Governance Member 30%_
 
 _수수료 분배 - LP Provider 10%, Buyback 60%, Governance Member 30%_
