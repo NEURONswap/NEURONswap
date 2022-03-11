@@ -14,7 +14,6 @@
 
 ## 프로덕트
 
-* [gNR](undefined/page-1.md)
 * [거버넌스 토큰 스테이킹](undefined/undefined.md)
 * [로니클럽](undefined/undefined-1.md)
 * [스왑](undefined/undefined-2.md)
