@@ -8,7 +8,7 @@
 
 
 
-* Go to [https://opensea.io/](https://opensea.io) and click \[Connect Your Wallet] on the top right corner and click \[Kaikas]
+* Go to OpenSea ([https://opensea.io/](https://opensea.io)) and click \[Connect Your Wallet] on the top right corner and click \[Kaikas]
 * Approve Opensea for connection
 
 ![](../../.gitbook/assets/1.jpg)
