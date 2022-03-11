@@ -83,4 +83,8 @@ NEURONswap은 사용자가 프로젝트의 경로와 방향에 대한 결정에 
 
 ## **gNR의 비전**
 
-NEURONswap은 gNR을 도입함으로써 완전한 프로토콜 탈중앙화로 향하는 첫걸음을 내딛습니다. gNR을 통해 NR 토큰 분배 같은 작은 결정부터 NEURONswap Protocol의 기술 아젠다, 로드맵 설정 등 중대한 결정까지 gNR 홀더가 직접 결정할 수 있을 것입니다. 유저간의 자유로운 협의를 통해 NEURONswap Protocol은 gNR 홀더, 파트너들과 함께 생태계를 확장해 나갈 것입니다.
+NEURONswap은 gNR을 도입함으로써 완전한 프로토콜 탈중앙화로 향하는 첫걸음을 내딛습니다.
+
+gNR을 통해 NR 토큰 분배 같은 작은 결정부터 NEURONswap Protocol의 기술 아젠다, 로드맵 설정 등 중대한 결정까지 gNR 홀더가 직접 결정할 수 있을 것입니다.
+
+유저간의 자유로운 협의를 통해 NEURONswap Protocol은 gNR 홀더, 파트너들과 함께 생태계를 확장해 나갈 것입니다.
