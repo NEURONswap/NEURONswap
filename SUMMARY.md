@@ -34,6 +34,9 @@
   * [Kaikas(WEB)](user-guide/connect-to-wallet/kaikas-web.md)
 * [Swap](user-guide/swap.md)
 * [Liquidity Pool Deposit/Withdraw](user-guide/liquidity-pool-deposit-withdraw.md)
+* [NFT Transfer Guide](user-guide/nft-transfer-guide/README.md)
+  * [Kaikas Wallet User](user-guide/nft-transfer-guide/kaikas-wallet-user.md)
+  * [Klip Wallet User](user-guide/nft-transfer-guide/klip-wallet-user.md)
 
 ## Note
 
