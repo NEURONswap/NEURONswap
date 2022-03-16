@@ -42,17 +42,11 @@ Liquidity providers create a trading environment in the DEX ecosystem. Liquidity
 
 ### **Trader**
 
-Traders are allocated 10% of the daily community token distribution.
+Traders are allocated 10% of the daily NR mining for protocol contributor.
 
 ### Governance Member
 
-Governance Token Stakers share the mid- to long-term vision of NEURONswap. After the launch of the staking service, token stakers are allocated a portion of the daily community token distribution.
-
-
-
-_\*Token distribution for governance token staking will be applied after the introduction of staking._
-
-_\*The token distribution portion may be adjusted according to the market environment._
+Governance Token Stakers share the mid- to long-term vision of NEURONswap. Stakers are allocated 60% of the daily NR mining for protocol contributor.
 
 ## **Deflation Model**
 
