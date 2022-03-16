@@ -27,7 +27,7 @@ _\*NR tokens have a total of 5 deflationary periods every 4 Months. Deflation is
 ## Token Distribution
 
 * Community**:** 75.13%
-  * Liquidity Providers: 53.33%
+  * Protocol Contributor (LP Provider + Staker) : 53.33%
   * Transaction Fee Payback Pool: 5.33%
   * Treasury: 16.47%&#x20;
 * Team: 19.43% _(Team quantities are staked for 2 years.)_
@@ -36,9 +36,9 @@ _\*NR tokens have a total of 5 deflationary periods every 4 Months. Deflation is
 
 ![](../.gitbook/assets/백서그래픽정리\_대지8.jpg)
 
-### **Liquidity Provider**
+### Protocol Contributor
 
-Liquidity providers create a trading environment in the DEX ecosystem. Liquidity providers are allocated 90% of the daily community token distribution.
+Liquidity providers create a trading environment in the DEX ecosystem. Liquidity providers are allocated 60% and stakers are allocated 30% of the daily NR mining for protocol contributor.
 
 ### **Trader**
 
