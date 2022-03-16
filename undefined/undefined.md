@@ -57,8 +57,6 @@ RONY CLUB에서 스테이커는 보유한 gNR 수량에 따라 5개의 칭호(�
 
 
 
-_\*NR 스테이킹이 오픈 됨에 따라, 프로토콜 기여자 NR 분배량과 수수료 분배가 하기와 같이 변경됩니다._
-
 ![](<../.gitbook/assets/Daily NR Mining for Protocol Contributor.jpg>)
 
 _프로토콜 기여자 NR 분배량 - LP Provider 60%, Trader 10%, Governance Member 30%_
