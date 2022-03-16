@@ -50,9 +50,7 @@ In the RONY CLUB, where governance will be discussed, stakers will be given 5 ti
 
 
 
-_**\*As NR staking opens, the community NR distribution and Transcation fee will change as follows.**_
-
-![](../.gitbook/assets/스테이킹서비스적용.jpg)
+![](<../.gitbook/assets/Daily NR Mining for Protocol Contributor (1).jpg>)
 
 _**Daily NR Mining for Protocol Contributor**_
 
