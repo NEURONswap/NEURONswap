@@ -38,7 +38,7 @@ gNR holders have the right to vote on governance issues of the NEURONswap. Membe
 
 * **Mining**
 
-Governance members(stakers) will receive 30% of the community’s daily NR distribution as staking rewards depending on their stake. Distribution formula is calculated as follows: Mining volume= (Community Daily NR Distribution x 30%) x(peronal gNR holdings/ entire gNRs)
+Governance members(stakers) will receive 30% of the daily NR mining for protocol contributor as staking rewards depending on their stake. Distribution formula is calculated as follows: Mining volume= (Daily NR Mining for Protocol Contributor x 30%) x(peronal gNR holdings/ entire gNRs)
 
 * **Protocol Revenue Sharing**
 
@@ -54,7 +54,7 @@ _**\*As NR staking opens, the community NR distribution and Transcation fee will
 
 ![](../.gitbook/assets/스테이킹서비스적용.jpg)
 
-_**Community NR Distribution**_
+_**Daily NR Mining for Protocol Contributor**_
 
 _LP Provider 60%, Trader 10%, Governance Member 30%_
 
