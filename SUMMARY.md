@@ -17,13 +17,13 @@
 * [DEX](product/dex/README.md)
   * [Swap](product/dex/undefined-2.md)
   * [Liquidity Providing](product/dex/undefined-3.md)
-  * [Governance Token Staking](product/dex/undefined/README.md)
-    * [Roadmap](product/dex/undefined/undefined-6.md)
+  * [Governance Token Staking](product/dex/undefined.md)
   * [Referral](product/dex/undefined-5.md)
+  * [DEX Roadmap](product/dex/undefined-6.md)
 * [Rony Club](product/undefined-1/README.md)
   * [CIY Tool](<product/undefined-1/page-1 (1).md>)
-  * [Rony NFT Market](product/undefined-1/rony-nft-market.md)
-  * [Rony Club Road Map](product/undefined-1/rony-club-road-map.md)
+  * [RONY NFT Market](product/undefined-1/rony-nft-market.md)
+  * [RONY CLUB Roadmap](product/undefined-1/rony-club-roadmap.md)
 
 ## Tokenomics
 
