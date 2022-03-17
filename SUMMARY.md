@@ -19,7 +19,7 @@
 * [Governance Token Staking](product/undefined.md)
 * [Referral](product/undefined-5.md)
 * [Rony Club](product/undefined-1/README.md)
-  * [CIY Tool](<product/undefined-1/page-1 (1).md>)
+  * [NFT Minting](product/undefined-1/nft-minting.md)
   * [RONY NFT Market](product/undefined-1/rony-nft-market.md)
 * [Roadmap](product/undefined-6.md)
 
