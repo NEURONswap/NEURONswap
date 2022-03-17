@@ -19,11 +19,11 @@
   * [유동성 공급](undefined/dex/undefined-3.md)
   * [거버넌스 토큰 스테이킹](undefined/dex/undefined.md)
   * [레퍼럴](undefined/dex/undefined-5.md)
-  * [로드맵](undefined/dex/undefined-6.md)
-* [로니클럽](undefined/undefined-1/README.md)
+  * [DEX 로드맵](undefined/dex/undefined-6.md)
+* [RONY CLUB](undefined/undefined-1/README.md)
   * [CIY 툴](undefined/undefined-1/ciy.md)
-  * [로니 NFT 마켓](undefined/undefined-1/nft.md)
-  * [로니클럽 로드맵](undefined/undefined-1/undefined.md)
+  * [RONY NFT 마켓](undefined/undefined-1/rony-nft.md)
+  * [RONY CLUB 로드맵](undefined/undefined-1/rony-club.md)
 
 ## 토크노믹스
 
