@@ -50,7 +50,7 @@ In the RONY CLUB, where governance will be discussed, stakers will be given 5 ti
 
 
 
-![](<../.gitbook/assets/Daily NR Mining for Protocol Contributor (1).jpg>)
+![](<../../../.gitbook/assets/Daily NR Mining for Protocol Contributor (1).jpg>)
 
 _**Daily NR Mining for Protocol Contributor**_
 

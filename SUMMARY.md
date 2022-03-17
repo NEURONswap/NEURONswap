@@ -14,13 +14,14 @@
 
 ## Product
 
-* [Governance Token Staking](product/undefined.md)
-* [Rony Club](product/undefined-1.md)
-* [Swap](product/undefined-2.md)
-* [Liquidity Providing](product/undefined-3.md)
-* [Liquidity Migration](product/undefined-4.md)
-* [Referral](product/undefined-5.md)
-* [Roadmap](product/undefined-6.md)
+* [DEX](product/dex/README.md)
+  * [Swap](product/dex/undefined-2.md)
+  * [Liquidity Providing](product/dex/undefined-3.md)
+  * [Governance Token Staking](product/dex/undefined/README.md)
+    * [Roadmap](product/dex/undefined/undefined-6.md)
+  * [Referral](product/dex/undefined-5.md)
+* [Rony Club](product/undefined-1/README.md)
+  * [Page 1](product/undefined-1/page-1.md)
 
 ## Tokenomics
 
