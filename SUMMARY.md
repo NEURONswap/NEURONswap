@@ -16,7 +16,7 @@
 
 * [로니클럽](undefined/undefined-1/README.md)
   * [CIY 툴](undefined/undefined-1/ciy.md)
-  * [Page 1](undefined/undefined-1/page-1.md)
+  * [로니 NFT 마켓](undefined/undefined-1/nft.md)
 * [DEX](undefined/dex/README.md)
   * [스왑](undefined/dex/undefined-2.md)
   * [유동성 공급](undefined/dex/undefined-3.md)
