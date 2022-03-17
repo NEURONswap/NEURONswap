@@ -17,9 +17,9 @@ _**“As a reward for staking NR tokens, stakers are given gNR tokens that repre
 ### ex) Unstake Penalty by Period
 
 * ex) staking 100 NR for 2 months(60 days)
-  * Unstaking after 7 days 7/60 = **11.66**% gNRs can be received
-  * Unstaking after 30 days 30/60 = **50%** gNRs can be received
-  * Unstaking after 60 days 60/60 = **100%** gNRs can be received
+  * Unstaking after 7 days 7/60 = **11.66**% NRs can be received
+  * Unstaking after 30 days 30/60 = **50%** NRs can be received
+  * Unstaking after 60 days 60/60 = **100%** NRs can be received
 
 _\*Penalties due to unstaking will be all burned and excluded from circulation._\
 _\*All responsibility for unstaking rests with the user, and the user must be clearly aware of this._
@@ -50,7 +50,7 @@ In the RONY CLUB, where governance will be discussed, stakers will be given 5 ti
 
 
 
-![](<../../../.gitbook/assets/Daily NR Mining for Protocol Contributor (1).jpg>)
+![](<../../.gitbook/assets/Daily NR Mining for Protocol Contributor (1).jpg>)
 
 _**Daily NR Mining for Protocol Contributor**_
 
