@@ -5,13 +5,6 @@
   * [로니클럽](neuronswap/undefined-1.md)
   * [영속 가능한 토크노믹스](neuronswap/2.0.md)
 
-## DAO 2.0
-
-* [메타넌스](dao-2.0/undefined.md)
-* [프로토콜 구성](dao-2.0/undefined-1.md)
-* [거버넌스 사항](dao-2.0/undefined-2.md)
-* [거버넌스 프로세스](dao-2.0/undefined-3.md)
-
 ## 프로덕트
 
 * [스왑](undefined/dex/undefined-2.md)
@@ -25,6 +18,13 @@
 ## 토크노믹스
 
 * [Tokenomics](undefined-1/tokenomics.md)
+
+## DAO 2.0
+
+* [메타넌스](dao-2.0/undefined.md)
+* [프로토콜 구성](dao-2.0/undefined-1.md)
+* [거버넌스 사항](dao-2.0/undefined-2.md)
+* [거버넌스 프로세스](dao-2.0/undefined-3.md)
 
 ## 유저가이드
 
