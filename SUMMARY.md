@@ -21,7 +21,6 @@
   * [레퍼럴](undefined/dex/undefined-5.md)
   * [DEX 로드맵](undefined/dex/undefined-6.md)
 * [RONY CLUB](undefined/undefined-1/README.md)
-  * [CIY 툴](undefined/undefined-1/ciy.md)
   * [RONY NFT 마켓](undefined/undefined-1/rony-nft.md)
   * [RONY CLUB 로드맵](undefined/undefined-1/rony-club.md)
 
