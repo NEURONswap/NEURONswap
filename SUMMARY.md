@@ -18,10 +18,10 @@
 * [유동성 공급](undefined/dex/undefined-3.md)
 * [거버넌스 토큰 스테이킹](undefined/dex/undefined.md)
 * [레퍼럴](undefined/dex/undefined-5.md)
-* [로니클럽](undefined/undefined-1.md)
-* [로니 NFT 마켓](undefined/nft.md)
+* [로니클럽](undefined/undefined-1/README.md)
+  * [NFT 민팅](undefined/undefined-1/nft.md)
+  * [로니 NFT 마켓](undefined/undefined-1/nft-1.md)
 * [로드맵](undefined/dex/undefined-6.md)
-* [민팅](undefined/undefined-4.md)
 
 ## 토크노믹스
 
