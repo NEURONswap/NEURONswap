@@ -19,7 +19,7 @@
 
 ## DAO
 
-* [메타넌스](dao-2.0/undefined.md)
+* [거버넌스](dao-2.0/undefined.md)
 * [프로토콜 구성](dao-2.0/undefined-1.md)
 * [거버넌스 사항](dao-2.0/undefined-2.md)
 * [거버넌스 프로세스](dao-2.0/undefined-3.md)
