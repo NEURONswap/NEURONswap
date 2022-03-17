@@ -57,7 +57,7 @@ RONY CLUB에서 스테이커는 보유한 gNR 수량에 따라 5개의 칭호(�
 
 
 
-![](<../.gitbook/assets/Daily NR Mining for Protocol Contributor.jpg>)
+![](<../../.gitbook/assets/Daily NR Mining for Protocol Contributor.jpg>)
 
 _프로토콜 기여자 NR 분배량 - LP Provider 60%, Trader 10%, Governance Member 30%_
 
