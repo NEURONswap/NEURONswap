@@ -21,6 +21,7 @@
     * [Roadmap](product/dex/undefined/undefined-6.md)
   * [Referral](product/dex/undefined-5.md)
 * [Rony Club](product/undefined-1/README.md)
+  * [CIY Tool](product/undefined-1/ciy-tool.md)
   * [Page 1](product/undefined-1/page-1.md)
 
 ## Tokenomics
