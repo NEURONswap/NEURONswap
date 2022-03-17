@@ -19,8 +19,8 @@
 * [거버넌스 토큰 스테이킹](undefined/dex/undefined.md)
 * [레퍼럴](undefined/dex/undefined-5.md)
 * [로니클럽](undefined/undefined-1.md)
-  * [NFT 민팅](undefined/undefined-1/nft.md)
-  * [로니 NFT 마켓](undefined/undefined-1/nft-1.md)
+  * [DAO](undefined/undefined-1/dao.md)
+  * [로니 NFT](undefined/undefined-1/nft.md)
 * [로드맵](undefined/dex/undefined-6.md)
 
 ## 토크노믹스
