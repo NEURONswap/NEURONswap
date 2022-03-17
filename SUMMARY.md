@@ -5,13 +5,6 @@
   * [Rony Club](readme/rony-club.md)
   * [Sustainable Tokenomics](neuronswap/2.0.md)
 
-## Governance 2.0
-
-* [Metanance](governance-2.0/undefined.md)
-* [Protocol Configuration](governance-2.0/undefined-1.md)
-* [Governance Agenda](governance-2.0/undefined-2.md)
-* [Governance Operation Process](governance-2.0/undefined-3.md)
-
 ## Product
 
 * [Swap](product/undefined-2.md)
@@ -26,6 +19,13 @@
 ## Tokenomics
 
 * [Tokenomics](tokenomics/tokenomics.md)
+
+## Governance 2.0
+
+* [Metanance](governance-2.0/undefined.md)
+* [Protocol Configuration](governance-2.0/undefined-1.md)
+* [Governance Agenda](governance-2.0/undefined-2.md)
+* [Governance Operation Process](governance-2.0/undefined-3.md)
 
 ## User Guide
 
