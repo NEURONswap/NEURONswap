@@ -12,7 +12,7 @@ Rony Club members are given unique membership cards(NFT) and 5 titles: Diamond, 
 
 Rony Club members can communicate in the Square and influence the protocol's technology and governance rule in the Council. In addition, the Finance Commitee can exercise influence on the Economy agenda.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (30).png>)
 
 * **Rony Council**
 
