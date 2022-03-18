@@ -14,12 +14,28 @@ Rony Club is moving away from the Top-down method that is a characteristic of th
 
 ## **Rony NFT**
 
-Rony Club members receive membership cards and can participat in various activities within the club. Collect NFTs through Ronybox and Marketplace and show off your collections.
+Ronys receive membership cards and can participat in various activities within the club. Collect NFTs through Ronybox and Marketplace and show off your collections.
 
 ****
 
 **Membership Card**
 
-Rony Club members can choose a skin color and background color when creating an avatar.
+Ronys can choose a skin color and background color when creating an avatar.
 
-\*Membership cards are issued ㄷㅁeach each season.
+_\*Membership cards are issued each season._
+
+**Rony Box**
+
+Ronys can purchase Rony Box with NR tokens. Rony Box is an item that can obtain Rony NFTs(clothes, accessories, etc.) with a random probability. You can generate revenue by selling the NFTs. All NR tokens used to purchase Ronybox will be burned.
+
+### Step 1. Rony Club Open: Team Selected NFT
+
+Synthetic NFTs selected by the team will be minted. When users create the NFTs selected by the team, it will be displayed in the Hall of Fame, recorded in the history of Rony Club, and given rewards.
+
+### Step 2. Rony House Party Open: User Selected NFT
+
+Rony house party is a service where participants can show off their unique avatar by combining various NFT parts into their avatar. Participants register their own NFTs in the photozone and the best dressers are selected through votes from Rony Club members. Best dressers’ avatars will be minted as Card NFTs. Depending on the ranking, best dressers will be given the benefits of participating in the Rony house party.
+
+## Rony Club NFT Market
+
+Users can sell their NFTs in the Rony Club NFT Market to earn profits. In the Rony Club NFT market, Klay is used for transaction fees, but people can also trade NFTs using NR tokens to trade at a lower fee. Fees generated from Rony Club NFT Market will be used to burn NR tokens and distribute gNR holders rewards.
