@@ -2,7 +2,7 @@
 description: Metanance is governance 2.0 which refers to governance in metaverse.
 ---
 
-# Metanance
+# Governance
 
 ![](../.gitbook/assets/백서그래픽정리\_대지2.jpg)
 
@@ -20,6 +20,6 @@ In a blockchain-based protocol using smart contracts, the ownership centered on 
 
 A new organization based on Metanance contributes to the creation of new values ​​by providing digital jobs in the era where the value of labor is declining. It also provides opportunities for asset growth by acquiring ownership of the organization.
 
-Metanance can exist in various forms, from Centralized Organization Governance to Decentralized Autonomous Governance. Governance 2.0 : Recognizing that DAO based on Metanance is the ideal form of organization, NEURONswap aims to form a decentralized political organization under smart contracts which has stronger enforcement than the law and the goodwill of the majority.
+Metanance can exist in various forms, from Centralized Organization Governance to Decentralized Autonomous Governance. Recognizing that DAO based on Metanance is the ideal form of organization, NEURONswap aims to form a decentralized political organization under smart contracts which has stronger enforcement than the law and the goodwill of the majority.
 
-In the initial development stage of the protocol, where resources are limited, we believe that it is effective for the NEURONswap team to lead governance and develop protocol technology with the vision of the NEURONswap’s initial plan to realize a decentralized and highly automated organization more quickly. NEURONswap team will gradually develop from team-led governance to community-led decentralized governance according to the development of protocol technology, stabilization of governance policies, and development of community awareness.
+In the initial development stage of the protocol, where resources are limited, we believe that it is effective for the NEURON team to lead governance and develop protocol technology with the vision of the NEURONswap’s initial plan to realize a decentralized and highly automated organization more quickly. NEURON team will gradually develop from team-led governance to community-led decentralized governance according to the development of protocol technology, stabilization of governance policies, and development of community awareness.
