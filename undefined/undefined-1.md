@@ -10,7 +10,7 @@ description: >-
 
 로니클럽 멤버들은 고유의 멤버십 카드(NFT)를 발급받고 프로토콜 영향력에 따라 5개 칭호:다이아, 골드, 실버, 브론즈, 스톤을 받습니다. 로니클럽 멤버들은 광장(Square)에서 소통하고, 의회(Council)에서 프로토콜의 기술(Technology)과 거버넌스 규칙(Governing Rule)에 대한 영향력을 행사할 수 있습니다 또한, 재무위원회(the Finance Committee)에서 이코노미(Economy) 안건에 대한 영향력을 행사할 수 있습니다.
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 * **로니 의회**
 
