@@ -1,15 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [NEURONswap Introduction](<README (1).md>)
-  * [Metanance](readme/metanance.md)
-  * [Rony Club](readme/rony-club.md)
 
 ## Product
 
 * [Rony Club](product/undefined-1/README.md)
-  * [NFT Minting](product/undefined-1/nft-minting.md)
-  * [RONY NFT Market](product/undefined-1/rony-nft-market.md)
+  * [Rony NFT](product/undefined-1/rony-nft.md)
 * [Swap](product/undefined-2.md)
 * [Liquidity Providing](product/undefined-3.md)
 * [Governance Token Staking](product/undefined.md)
