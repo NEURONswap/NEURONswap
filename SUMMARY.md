@@ -5,7 +5,8 @@
 ## Product
 
 * [Rony Club](product/undefined-1/README.md)
-  * [Rony NFT](product/undefined-1/rony-nft.md)
+  * [Rony Club's Vision](product/undefined-1/rony-clubs-vision.md)
+  * [Rony Club NFT](product/undefined-1/rony-club-nft.md)
 * [Swap](product/undefined-2.md)
 * [Liquidity Providing](product/undefined-3.md)
 * [Governance Token Staking](product/undefined.md)
