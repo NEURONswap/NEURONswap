@@ -1,31 +1,32 @@
 # Table of contents
 
-* [NEURONswap Introduction](README.md)
+* [Introduction](README.md)
+* [NEURONswap Introduction](<README (1).md>)
   * [Metanance](readme/metanance.md)
   * [Rony Club](readme/rony-club.md)
-  * [Sustainable Tokenomics](neuronswap/2.0.md)
 
 ## Product
 
+* [Rony Club](product/undefined-1/README.md)
+  * [NFT Minting](product/undefined-1/nft-minting.md)
+  * [RONY NFT Market](product/undefined-1/rony-nft-market.md)
 * [Swap](product/undefined-2.md)
 * [Liquidity Providing](product/undefined-3.md)
 * [Governance Token Staking](product/undefined.md)
 * [Referral](product/undefined-5.md)
-* [Rony Club](product/undefined-1/README.md)
-  * [NFT Minting](product/undefined-1/nft-minting.md)
-  * [RONY NFT Market](product/undefined-1/rony-nft-market.md)
 * [Roadmap](product/undefined-6.md)
 
 ## Tokenomics
 
+* [Sustainable Tokenomics](tokenomics/2.0.md)
 * [Tokenomics](tokenomics/tokenomics.md)
 
-## Governance 2.0
+## DAO
 
-* [Metanance](governance-2.0/undefined.md)
-* [Protocol Configuration](governance-2.0/undefined-1.md)
-* [Governance Agenda](governance-2.0/undefined-2.md)
-* [Governance Operation Process](governance-2.0/undefined-3.md)
+* [Governance](dao/undefined.md)
+* [Protocol Configuration](dao/undefined-1.md)
+* [Governance Agenda](dao/undefined-2.md)
+* [Governance Operation Process](dao/undefined-3.md)
 
 ## User Guide
 
