@@ -80,6 +80,12 @@ The first 30 people who create a Synthesis NFT using 7 parts NFTs that are Rare 
 
 The first 55 people who create a Synthesis NFT using 7 parts NFTs that are Normal grades and register in the Hall of Fame get NR token mining rights for 90 days.
 
-\*All NFTs can be traded on Opensea. \*In the case of secondary sales without receiving the rewards distributed to the Synthesis NFT, the previously accumulated rewards will also be transferred to the buyer. The user bears all responsibility for any damage resulting from the sale without receipt of the Reward. \*Each set image will be displayed in advance on the web. \*The number of avatars displayed in the Hall of Fame, the number of people, mining rights, and mining period may change each round depending on the concept .
+_\*All NFTs can be traded on Opensea._&#x20;
+
+_\*In the case of secondary sales without receiving the rewards distributed to the Synthesis NFT, the previously accumulated rewards will also be transferred to the buyer. The user bears all responsibility for any damage resulting from the sale without receipt of the Reward._&#x20;
+
+_\*Each set image will be displayed in advance on the web._&#x20;
+
+_\*The number of avatars displayed in the Hall of Fame, the number of people, mining rights, and mining period may change each round depending on the concept ._
 
 ###
