@@ -42,7 +42,7 @@ There are 5 types of set looks for the 1st round of Rony Club: Frank Set, Legend
 
 ### **1. Exhibit in the Hall of Fame**
 
-When you complete a round set look and decide to display it in the Hall of Fame, the parts NFT will be synthesized into a Synthesis NFT and displayed in the Hall of Fame. All rights of 뇨SnythSynthe tic  and NFT are held by individualsFrom the moment the exhibition in the Hall of Fame is completed, NR mining will be started for 90 days. The avatars displayed in the Rony Club Hall of Fame are recorded in the history of the Rony Club, and special benefits for those may occur in the future.
+When you complete a round set look and decide to display it in the Hall of Fame, the parts NFT will be synthesized into a Synthesis NFT and displayed in the Hall of Fame. All rights of Synthesis NFT are held by the creator and from the moment the exhibition in the Hall of Fame is completed, NR mining will be started for 90 days. The avatars displayed in the Rony Club Hall of Fame are recorded in the history of the Rony Club, and special benefits for those may occur in the future.
 
 ### 2. Holding parts NFT
 
