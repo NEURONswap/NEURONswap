@@ -22,7 +22,7 @@ Synthesis NFTs can be created by synthesizing certain parts NFTs. The synthesis 
 
 \*Synthesis NFT cannot be disassembled back to Parts NFTs
 
-## H미all of Fame
+## H미allHHallall  of Fame
 
 ### Frank Set
 
