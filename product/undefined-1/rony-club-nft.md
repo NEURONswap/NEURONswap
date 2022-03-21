@@ -1,3 +1,9 @@
+---
+description: >-
+  It covers overall onformation on the revolution of NFT, Rony Club's NFTs,
+  usage of NFTs, the NFT synthesis and NR token Mining.
+---
+
 # Rony Club NFT
 
 ## Rony Box
