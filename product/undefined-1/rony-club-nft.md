@@ -26,7 +26,7 @@ Card NFTs can be created by synthesizing certain parts NFTs. The synthesized car
 
 ### Frank Set
 
-
+Frank Set is designed by NEURON's designer, Frank and is a set of 1 Mythic item and items of other grades. Only 3 out of 3,500 parts items are Mythic grade. When the first person completes the Franks set, it will be registered in the Hall of Fame and will be able to mine NR tokens.
 
 ### Legend Set
 
