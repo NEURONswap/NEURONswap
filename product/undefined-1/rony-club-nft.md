@@ -15,7 +15,7 @@ _\*For the first round of Rony Box, you can use the Rony Box you receive by part
 
 ![](<../../.gitbook/assets/파츠와 캐릭터.JPG>)
 
-Parts NFT can be acquired from Rony Box minting or purchased at the marketplace. Parts NFT consists of 7 parts(top,bottom,gloves,mask,hat,shoes and accessories). There are rarity for each Parts NFTs and they can be used to decorate the avatar or snthesize Synthesis NFTs
+Parts NFT can be acquired from Rony Box minting or purchased at the marketplace. Parts NFT consists of 7 parts(top,bottom,gloves,mask,hat,shoes and accessories). There are rarity for each Parts NFTs and they can be used to decorate the avatar or snthesize NFTs.
 
 ## Synthesis
 
@@ -42,15 +42,13 @@ There are 5 types of set looks for the 1st round of Rony Club: Frank Set, Legend
 
 ### **1. Exhibit in the Hall of Fame**
 
-The Hall of Fame is a space where avatars of 100 people who have completed the round set look are displayed.
-
-When you complete a round set look and decide to display it in the Hall of Fame, the parts NFT will be synthesized into a Synthesis NFT and displayed in the Hall of Fame. From the moment the exhibition in the Hall of Fame is completed, NR mining will be started for 90 days. The avatars displayed in the Rony Club Hall of Fame are recorded in the history of the Rony Club, and special benefits for those may occur in the future.
+When you complete a round set look and decide to display it in the Hall of Fame, the parts NFT will be synthesized into a Synthesis NFT and displayed in the Hall of Fame. All rights of 뇨SnythSynthe tic  and NFT are held by individualsFrom the moment the exhibition in the Hall of Fame is completed, NR mining will be started for 90 days. The avatars displayed in the Rony Club Hall of Fame are recorded in the history of the Rony Club, and special benefits for those may occur in the future.
 
 ### 2. Holding parts NFT
 
 You can create your own avatar by wearing the parts NFT. You can participate in the Rony House Party event by combining various parts NFTs to form many rounds. In addition, you can complete the set look by using parts NFT in a later round.
 
-### 3. Sell on the marketplace
+### 3. Selling on the marketplace
 
 You can earn money by selling parts NFTs on the marketplace.
 
