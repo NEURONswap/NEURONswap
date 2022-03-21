@@ -46,4 +46,4 @@ If 7 normal parts NFTs are synthesized to create the Synthesis NFT, it will be r
 \
 \*All NFTs of Rony Club can be traded on Opensea. \
 \*Parts NFTs in Each set will be shown in the website in advance. \
-\*Depending on the number of Rony Boxes minted per round, the number of NFT cards to be combined may change.
+\*Depending on the number of Rony Boxes minted per round, the number of Synthesis NFTs may change.
