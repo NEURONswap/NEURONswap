@@ -1,7 +1,7 @@
 ---
 description: >-
-  This document has overall information on the Revolution of NFT, Rony Club's
-  NFTs and the usage of it and the NFT synthesis and NR token mining.
+  NFT의 혁신, 로니클럽 NFT의 종류와 활용법 그리고 로니클럽 NFT만의 합성과 NR토큰 채굴 기능에 대한 전반적인 내용이
+  포함되어있습니다.
 ---
 
 # 로니클럽 NFT
