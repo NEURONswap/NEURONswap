@@ -2,25 +2,35 @@
 
 ## Rony Box
 
-Rony Box is an NFT that is revealed after 3 days of minting. 3,500 Rony Box are minted every round.\
+Rony Box is an NFT that is revealed after 3 days of minting. 3,500 Rony Box are minted every round.
+
+![](../../.gitbook/assets/로니박스.png)
+
 \
-\*All NR tokens from the Rony Box sale will be burned.\
-\*For the first round of Rony Box, you can use the Rony Box you receive by participating in the NEURONswap launchpad in the same way as the Rony Box minted or purchased from the market.
+\
+_\*All NR tokens from the Rony Box sale will be burned._\
+_\*For the first round of Rony Box, you can use the Rony Box you receive by participating in the NEURONswap launchpad in the same way as the Rony Box minted or purchased from the market._
 
 ## Parts NFT&#x20;
+
+![](<../../.gitbook/assets/파츠와 캐릭터.JPG>)
 
 Parts NFT can be acquired from Rony Box minting or purchased at the marketplace. Parts NFT consists of 7 parts(top,bottom,gloves,mask,hat,shoes and accessories). There are rarity for each Parts NFTs and they can be used to decorate the avatar or snthesize Synthesis NFTs
 
 ## Synthesis
+
+![](../../.gitbook/assets/전시하기1.JPG)
 
 Parts NFTs can be synthesised to make one Synthesis NFT. \
 
 
 ## Synthesis NFT
 
+![](../../.gitbook/assets/전시하기2.JPG)
+
 Synthesis NFTs can be created by synthesizing certain parts NFTs. The synthesis NFT will be registered and shown in the Hall of Fame and will mine NR tokens for 90 days.
 
-\*Synthesis NFT cannot be disassembled back to Parts NFTs
+_\*Synthesis NFT cannot be disassembled back to Parts NFTs_
 
 ## Hall  of Fame
 
@@ -46,7 +56,9 @@ You can earn money by selling parts NFTs on the marketplace.
 
 
 
-\*The following contents are written using the 1st round of Rony Club as an example.
+_\*The following contents are written using the 1st round of Rony Club as an example._
+
+![](<../../.gitbook/assets/세트 이미지.JPG>)
 
 ### Frank Set
 
