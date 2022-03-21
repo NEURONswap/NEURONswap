@@ -16,13 +16,13 @@ Parts NFT can be acquired from Rony Box minting or purchased at the marketplace.
 Parts NFTs can be synthesised to make one card NFT. \
 
 
-\*In the first round of the Rony Box event, the parts NFT can be synthesized will be announced in advance.
+## Synthesis NFT
 
-## Card NFT
+Synthesis NFTs can be created by synthesizing certain parts NFTs. The synthesis NFT will be registered and shown in the Hall of Fame and will mine NR tokens for 90 days.
 
-Card NFTs can be created by synthesizing certain parts NFTs. The synthesized card NFT will be displayed in the Hall of Fame. Card NFT will be registered in the Hall of Fame and will mine NR tokens for 90 days.
+\*Synthesis NFT cannot be disassembled back to Parts NFTs
 
-## Hall of Fame
+## H미all of Fame
 
 ### Frank Set
 
