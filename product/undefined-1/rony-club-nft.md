@@ -36,6 +36,10 @@ Parts NFTs can be synthesised to make one Synthesis NFT. \
 
 Synthesis NFTs can be created by synthesizing certain parts NFTs. The synthesis NFT will be registered and shown in the Hall of Fame and will mine NR tokens for 90 days.
 
+
+
+The total number of Synthesis NFTs per round is limited to 100. Each additional round adds 100 synthetic NFTs, and the total issuance is finally limited to 1,000. Rounds run approximately every two weeks.&#x20;
+
 _\*Synthesis NFT cannot be disassembled back to Parts NFTs_
 
 ## Hall  of Fame
