@@ -20,7 +20,7 @@
 
 
 
-* Click \[Add NFT] and insert Rony Club contract address
+* Click \[Add NFT] and insert Rony Box contract address (0x378f1e9be84a881f429402b4f656816c195c1051)
 
 
 
