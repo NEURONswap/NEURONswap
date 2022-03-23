@@ -36,6 +36,7 @@
 * [NFT 지갑이동 이용가이드](undefined-2/nft/README.md)
   * [Kaikas 지갑 유저](undefined-2/nft/kaikas.md)
   * [Klip 지갑 유저](undefined-2/nft/klip.md)
+* [로니박스 교환 안내](undefined-2/undefined-3.md)
 
 ## 유의사항
 
