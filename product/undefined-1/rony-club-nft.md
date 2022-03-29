@@ -90,7 +90,7 @@ The first 55 people who create a Synthesis NFT using 7 parts NFTs that are Norma
 
 _\*All NFTs can be traded on Opensea._&#x20;
 
-_\*In the case of secondary sales without receiving the rewards distributed to the Synthesis NFT, the previously accumulated rewards will also be transferred to the buyer. The user bears all responsibility for any damage resulting from the sale without receipt of the Reward._&#x20;
+_\*In the case of selling Synthesis NFT without receiving the rewards distributed, the previously accumulated rewards will also be transferred to the buyer. The user bears all responsibility for any damage resulting from the sale without receipt of the Reward._
 
 _\*Each set image will be displayed in advance on the web._&#x20;
 
