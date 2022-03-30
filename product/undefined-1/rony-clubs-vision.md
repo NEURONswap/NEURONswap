@@ -1,6 +1,6 @@
 ---
 description: >-
-  NEURON team devleoped ‘SYnthesis NFT’ for the first time ever. We are
+  NEURON team devleoped ‘Synthesis NFT’ for the first time ever. We are
   confident that Rony Club NFT will revolutionize the NFT minting system.
 ---
 
