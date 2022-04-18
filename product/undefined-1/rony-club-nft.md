@@ -15,7 +15,7 @@ Rony Box is an NFT that is revealed after 3 days after, Rony Boxes are minted ev
 \
 \
 _\*All NR tokens from the Rony Box sale will be burned._\
-_\*For the first round of Rony Box, you can use the Rony Box you receive by participating in the NEURONswap launchpad in the same way as the Rony Box minted or purchased from the market._
+_\*You can use the Rony Box you receive by participating in the NEURONswap launchpad in the same way as the Rony Box minted or purchased from the market._
 
 ## Parts NFT&#x20;
 
