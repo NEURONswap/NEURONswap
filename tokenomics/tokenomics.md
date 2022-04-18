@@ -22,7 +22,7 @@ _\*Before the issuance of a total of 500 million tokens for 2 years is completed
 
 _\*NR tokens have a total of 5 deflationary periods every 4 Months. Deflation is designed to reduce the issuance volume by 10% compared to the existing issuance volume to prevent rapid deflation._
 
-![](<../.gitbook/assets/image (12).png>)
+![](../.gitbook/assets/TOKEN.PNG)
 
 ## Token Distribution
 
