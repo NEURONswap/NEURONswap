@@ -70,7 +70,7 @@ _\*The following contents are written using the 1st round of Rony Club as an exa
 
 ### Frank Set
 
-A set of combinations carefully selected by NEURON’s designer Frank, a set of 1 Mythic Item and multiple grade items. Only 3 out of 3,500 are Mythic Items, and the first person to complete the Frank Set and enter the Hall of Fame gets 90-day mining rights.
+A set of combinations carefully selected by NEURON’s designer Frank, a set of 1 Mythic Item and multiple grade items. The first person to complete the Frank Set and enter the Hall of Fame gets 90-day mining rights.
 
 ### Legend Set
 
