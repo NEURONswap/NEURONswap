@@ -21,7 +21,7 @@ _\*For the first round of Rony Box, you can use the Rony Box you receive by part
 
 ![](<../../.gitbook/assets/파츠와 캐릭터.JPG>)
 
-Parts NFT can be acquired from Rony Box minting or purchased at the marketplace. Parts NFT consists of 7 parts(top,bottom,gloves,mask,hat,shoes and accessories). There are rarity for each Parts NFTs and they can be used to decorate the avatar or snthesize NFTs.
+Parts NFT can be acquired from Rony Box minting or purchased at the marketplace. Parts NFT consists of 7 parts(top,bottom,gloves,mask,headㄷㅁ,shoes and accessories). There are rarity for each Parts NFTs and they can be used to decorate the avatar or snthesize NFTs.
 
 ## Synthesis
 
