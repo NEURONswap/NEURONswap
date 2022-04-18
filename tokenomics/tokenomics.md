@@ -55,6 +55,7 @@ NEURONswap has different buyback systems as the protocol grows. The systems are 
 * Burn 90% of Transaction Fee(NR Token)
 * Burn NR tokens used to create liquidity pool
 * Burn NR tokens from Rony Box sale
+* Burn a portion of NFT Market fee
 * Burn airdrop NR tokens
 * Burn NR token caused by unstake penalty
 * 5 Deflations throughout the distribution
