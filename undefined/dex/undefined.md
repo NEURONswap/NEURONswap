@@ -55,9 +55,7 @@ _수수료 수익 = (총 거래수수료 \* 30%) \*  (개인 소유 gNR / 전체
 
 RONY CLUB에서 스테이커는 보유한 gNR 수량에 따라 5개의 칭호(다이아몬드, 골드, 실버, 브론즈, 스톤)를 부여받게 됩니다.
 
-
-
-![](<../../.gitbook/assets/Daily NR Mining for Protocol Contributor.jpg>)
+![](../../.gitbook/assets/백서그래픽정리\_스테이킹서비스적용.jpg)
 
 _프로토콜 기여자 NR 분배량 - LP Provider 60%, Trader 10%, Governance Member 30%_
 
