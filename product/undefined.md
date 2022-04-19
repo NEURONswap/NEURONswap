@@ -48,9 +48,7 @@ Governance members(stakers) will receive 30% of the transaction fee occurred in 
 
 In the RONY CLUB, where governance will be discussed, stakers will be given 5 titles (Diamond, Gold, Silver, Bronze, Stone) according to staking quantity and the staking period.
 
-
-
-![](<../../.gitbook/assets/Daily NR Mining for Protocol Contributor (1).jpg>)
+![](../.gitbook/assets/백서그래픽정리\_스테이킹서비스적용.jpg)
 
 _**Daily NR Mining for Protocol Contributor**_
 
