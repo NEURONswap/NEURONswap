@@ -34,7 +34,7 @@ _\*NR 토큰은 4개월마다 총 5번의 디플레이션 구간이 존재합니
 * 어드바이저 : 4.96%
 * 초기 공급 : 0.48%
 
-![](<../.gitbook/assets/Daily NR Mining for Protocol Contributor.jpg>)
+![](../.gitbook/assets/백서그래픽정리\_스테이킹서비스적용.jpg)
 
 ### **유동성 공급자**
 
