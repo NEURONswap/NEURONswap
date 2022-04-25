@@ -8,7 +8,7 @@ description: >-
 
 ## Rony Box
 
-Rony Box is an NFT that is revealed after 3 days after, Rony Boxes are minted every round.
+Rony Box is an NFT that can be minted at Rony Club, Rony Boxes are minted every round.
 
 ![](../../.gitbook/assets/로니박스.png)
 
