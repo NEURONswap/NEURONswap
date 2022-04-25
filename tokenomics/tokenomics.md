@@ -52,7 +52,7 @@ Governance Token Stakers share the mid- to long-term vision of NEURONswap. Stake
 
 NEURONswap has different buyback systems as the protocol grows. The systems are designed as a virtuous cycle ecosystem that encourages liquidity providers and traders to participate more in the ecosystem by continuously increasing the value of the NR token.
 
-* Burn 90% of Transaction Fee(NR Token)
+* Burn of Transaction Fee(NR Token)
 * Burn NR tokens used to create liquidity pool
 * Burn NR tokens from Rony Box sale
 * Burn a portion of NFT Market fee
