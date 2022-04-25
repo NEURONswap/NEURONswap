@@ -78,15 +78,15 @@ The first 4 people who create a Synthesis NFT using 7 parts NFTs that are Legend
 
 ### Epic Set
 
-The first 10 people who create a Synthesis NFT using 7 parts NFTs that are Epic grades and register in the Hall of Fame get NR token mining rights for 90 days.
+The first 13 people who create a Synthesis NFT using 7 parts NFTs that are Epic grades and register in the Hall of Fame get NR token mining rights for 90 days.
 
 ### Rare Set
 
-The first 30 people who create a Synthesis NFT using 7 parts NFTs that are Rare grades and register in the Hall of Fame get NR token mining rights for 90 days.
+The first 40 people who create a Synthesis NFT using 7 parts NFTs that are Rare grades and register in the Hall of Fame get NR token mining rights for 90 days.
 
 ### **Normal Set**
 
-The first 55 people who create a Synthesis NFT using 7 parts NFTs that are Normal grades and register in the Hall of Fame get NR token mining rights for 90 days.
+The first 92 people who create a Synthesis NFT using 7 parts NFTs that are Normal grades and register in the Hall of Fame get NR token mining rights for 90 days.
 
 _\*All NFTs can be traded on Pala square and Opensea._&#x20;
 
