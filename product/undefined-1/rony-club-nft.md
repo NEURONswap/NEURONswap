@@ -38,7 +38,7 @@ Synthesis NFTs can be created by synthesizing certain parts NFTs. The synthesis 
 
 
 
-A limited number of synthetic NFTs per round will be issued. Approximately 100 synthetic NFTs will be added for each round, and the total issuance is finally limited to 1,000. Rounds run approximately every two weeks.
+The total number of Synthetic NFT minting is limited to 1,000. Approximately 100 synthetic NFTs will be minted for each round and each round starts approximately every two weeks.
 
 _\*Synthesis NFT cannot be disassembled back to Parts NFTs_
 
