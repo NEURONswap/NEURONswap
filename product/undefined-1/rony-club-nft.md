@@ -44,9 +44,9 @@ _\*Synthesis NFT cannot be disassembled back to Parts NFTs_
 
 ## Hall  of Fame
 
-The Hall of Fame is a space where avatars of 100 people who have completed the round set look are displayed.\
+The Hall of Fame is a space where avatars of users who have completed the round set look are displayed.\
 \
-There are 5 types of set looks for the 1st round of Rony Club: Frank Set, Legend Set, Epic Set, Rare Set, and Normal Set. Users who have all the parts NFTs required for a set have three choices.\
+There are 5 types of set looks for the round of Rony Club: Frank Set, Legend Set, Epic Set, Rare Set, and Normal Set. Users who have all the parts NFTs required for a set have three choices.\
 \
 
 
