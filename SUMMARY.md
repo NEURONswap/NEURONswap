@@ -52,7 +52,7 @@
 
 ***
 
-* [NEURONswap](https://neuronswap.com)
+* [NEURONswap](https://neuronswap.com/)
 * [Medium](https://medium.com/@neuronswap)
 * [Twitter](https://twitter.com/neuronswap)
 * [Telegram](https://t.me/NEURONswap\_KR)
