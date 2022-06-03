@@ -30,7 +30,8 @@
 * NEURONswap V2, Projects Owned Dex Service Release
 * Rony Club Official Open
   * Metaverse 3D space release with DEX and governance functions
-* 3 Round Minting Expanding NFT Utilization
+* 3 Round Minting
+* Expanding NFT Utilization
 * 2023 Roadmap Announcement
 
 ## 2023 Q4
