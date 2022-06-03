@@ -36,12 +36,16 @@ Parts NFTs can be synthesised to make one Synthesis NFT. \
 
 Synthesis NFTs can be created by synthesizing certain parts NFTs. The synthesis NFT will be registered and shown in the Hall of Fame and will mine NR tokens for 90 days.
 
+
+
+The total number of Synthetic NFT minting is limited to 1,000. Approximately 100 synthetic NFTs will be minted for each round and each round starts approximately every two weeks.
+
 _\*Synthesis NFT cannot be disassembled back to Parts NFTs_
 
 ## Hall  of Fame
 
-The Hall of Fame is a space where avatars of users who have completed the round set look are displayed.
-
+The Hall of Fame is a space where avatars of users who have completed the round set look are displayed.\
+\
 There are 5 types of set looks for the round of Rony Club: Frank Set, Legend Set, Epic Set, Rare Set, and Normal Set. Users who have all the parts NFTs required for a set have three choices.\
 \
 
@@ -50,15 +54,11 @@ There are 5 types of set looks for the round of Rony Club: Frank Set, Legend Set
 
 When you complete a round set look and decide to display it in the Hall of Fame, the parts NFT will be synthesized into a Synthesis NFT and displayed in the Hall of Fame. All rights of Synthesis NFT are held by the creator and from the moment the exhibition in the Hall of Fame is completed, NR mining will be started for 90 days. The avatars displayed in the Rony Club Hall of Fame are recorded in the history of the Rony Club, and special benefits for those may occur in the future.
 
-### 2. **Parts NFT Rony Box Exchange Guide**
+### 2. Holding parts NFT
 
-Minted Parts NFTs in the previous round can be exchanged for Rony Box. Exchange is carried out before the start of round and parts NFT can be exchanged for up to 200 Rony Boxes per round.
+You can create your own avatar by wearing the parts NFT. You can participate in the Rony House Party event by combining various parts NFTs to form many rounds. In addition, you can complete the set look by using parts NFT in a later round.
 
-### 3. **Event**
-
-Rony house party is a service where participants can show off their unique avatar by combining various NFT parts into their avatar.
-
-### 4. **Selling on the marketplace**
+### 3. Selling on the marketplace
 
 You can earn money by selling parts NFTs on the marketplace.
 
