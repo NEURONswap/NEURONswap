@@ -51,8 +51,8 @@
 
 ***
 
-* [NEURONswap](https://neuronswap.com)
-* [LaunchPad](https://launchpad.neuronswap.com)
+* [NEURONswap](https://neuronswap.com/)
+* [LaunchPad](https://launchpad.neuronswap.com/)
 * [Medium](https://medium.com/@neuronswap)
 * [Twitter](https://twitter.com/neuronswap)
 * [Telegram](https://t.me/NEURONswap)

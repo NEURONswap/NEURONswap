@@ -10,9 +10,17 @@
 * Governance Token Staking Open
 * Rony Club(Beta) Open
 
-## 2022 Q2 \~ 2023 Q3
+## 2022 Q2
 
-* &#x20;Will be released before Q1&#x20;
+* &#x20;&#x20;
+
+## 2022 Q3
+
+*
+
+## 2022 Q4
+
+*
 
 ## 2023 Q4
 
