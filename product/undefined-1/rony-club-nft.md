@@ -14,8 +14,7 @@ Rony Box is an NFT that can be minted at Rony Club, Rony Boxes are minted every 
 
 \
 \
-_\*All NR tokens from the Rony Box sale will be burned._\
-_\*You can use the Rony Box you receive by participating in the NEURONswap launchpad in the same way as the Rony Box minted or purchased from the market._
+_\*All NR tokens from the Rony Box sale will be burned._
 
 ## Parts NFT&#x20;
 
@@ -36,16 +35,12 @@ Parts NFTs can be synthesised to make one Synthesis NFT. \
 
 Synthesis NFTs can be created by synthesizing certain parts NFTs. The synthesis NFT will be registered and shown in the Hall of Fame and will mine NR tokens for 90 days.
 
-
-
-The total number of Synthetic NFT minting is limited to 1,000. Approximately 100 synthetic NFTs will be minted for each round and each round starts approximately every two weeks.
-
 _\*Synthesis NFT cannot be disassembled back to Parts NFTs_
 
 ## Hall  of Fame
 
-The Hall of Fame is a space where avatars of users who have completed the round set look are displayed.\
-\
+The Hall of Fame is a space where avatars of users who have completed the round set look are displayed.
+
 There are 5 types of set looks for the round of Rony Club: Frank Set, Legend Set, Epic Set, Rare Set, and Normal Set. Users who have all the parts NFTs required for a set have three choices.\
 \
 
@@ -54,11 +49,15 @@ There are 5 types of set looks for the round of Rony Club: Frank Set, Legend Set
 
 When you complete a round set look and decide to display it in the Hall of Fame, the parts NFT will be synthesized into a Synthesis NFT and displayed in the Hall of Fame. All rights of Synthesis NFT are held by the creator and from the moment the exhibition in the Hall of Fame is completed, NR mining will be started for 90 days. The avatars displayed in the Rony Club Hall of Fame are recorded in the history of the Rony Club, and special benefits for those may occur in the future.
 
-### 2. Holding parts NFT
+### 2. **Parts NFT Rony Box Exchange Guide**
 
-You can create your own avatar by wearing the parts NFT. You can participate in the Rony House Party event by combining various parts NFTs to form many rounds. In addition, you can complete the set look by using parts NFT in a later round.
+Minted Parts NFTs in the previous round can be exchanged for Rony Box. Exchange is carried out before the start of round and parts NFT can be exchanged for up to 200 Rony Boxes per round.
 
-### 3. Selling on the marketplace
+### 3. **Event**
+
+Rony house party is a service where participants can show off their unique avatar by combining various NFT parts into their avatar.
+
+### 4. **Selling on the marketplace**
 
 You can earn money by selling parts NFTs on the marketplace.
 
@@ -74,19 +73,19 @@ A set of combinations carefully selected by NEURON’s designer Frank, a set of 
 
 ### Legend Set
 
-The first 4 people who create a Synthesis NFT using 7 parts NFTs that are Legendary grades and register in the Hall of Fame get NR token mining rights for 90 days.
+The people who create a Synthesis NFT using 7 parts NFTs that are Legendary grades and register in the Hall of Fame get NR token mining rights for 90 days.
 
 ### Epic Set
 
-The first 13 people who create a Synthesis NFT using 7 parts NFTs that are Epic grades and register in the Hall of Fame get NR token mining rights for 90 days.
+The people who create a Synthesis NFT using 7 parts NFTs that are Epic grades and register in the Hall of Fame get NR token mining rights for 90 days.
 
 ### Rare Set
 
-The first 40 people who create a Synthesis NFT using 7 parts NFTs that are Rare grades and register in the Hall of Fame get NR token mining rights for 90 days.
+The people who create a Synthesis NFT using 7 parts NFTs that are Rare grades and register in the Hall of Fame get NR token mining rights for 90 days.
 
 ### **Normal Set**
 
-The first 92 people who create a Synthesis NFT using 7 parts NFTs that are Normal grades and register in the Hall of Fame get NR token mining rights for 90 days.
+The people who create a Synthesis NFT using 7 parts NFTs that are Normal grades and register in the Hall of Fame get NR token mining rights for 90 days.
 
 _\*All NFTs can be traded on Pala square and Opensea._&#x20;
 
